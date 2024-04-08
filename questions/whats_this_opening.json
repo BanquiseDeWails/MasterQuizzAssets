@@ -1,0 +1,893 @@
+[
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/b3c87062-9b43-4a74-a3ce-5ada56e0234b.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/b3c87062-9b43-4a74-a3ce-5ada56e0234b.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Ligue Indigo",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XY",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b3c87062-9b43-4a74-a3ce-5ada56e0234b"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/b138a8ae-e7d5-4630-8c23-09c8aecbe896.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/b138a8ae-e7d5-4630-8c23-09c8aecbe896.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Combats Galactiques",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b138a8ae-e7d5-4630-8c23-09c8aecbe896"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/a8ddfe32-a16a-4747-89d7-35e4e7e23176.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/a8ddfe32-a16a-4747-89d7-35e4e7e23176.png",
+        "proposal": [
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Battle Frontier",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a8ddfe32-a16a-4747-89d7-35e4e7e23176"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/51b67d34-4014-40cf-90d0-01ee9bf242dc.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/51b67d34-4014-40cf-90d0-01ee9bf242dc.png",
+        "proposal": [
+            {
+                "text": "Pokémon DP - Combats Galactiques",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon XY - La Quête de Kalos",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages",
+                "isAnswer": false
+            }
+        ],
+        "asset": "51b67d34-4014-40cf-90d0-01ee9bf242dc"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/80d36dca-0a46-4745-b427-8764cd7d99c6.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/80d36dca-0a46-4745-b427-8764cd7d99c6.png",
+        "proposal": [
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": false
+            }
+        ],
+        "asset": "80d36dca-0a46-4745-b427-8764cd7d99c6"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/8e380fb0-94af-4c8c-bce4-000b2d8daf53.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/8e380fb0-94af-4c8c-bce4-000b2d8daf53.png",
+        "proposal": [
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Destinées Rivales",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Aventures à Unys et au-delà !",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Battle Frontier",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8e380fb0-94af-4c8c-bce4-000b2d8daf53"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/f8ff251f-05bb-4be7-80d4-7c5c9af391c2.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/f8ff251f-05bb-4be7-80d4-7c5c9af391c2.png",
+        "proposal": [
+            {
+                "text": "Pokémon Noir & Blanc - Destinées Rivales",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Aventures à Unys et au-delà !",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Battle Frontier",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+        ],
+        "asset": "f8ff251f-05bb-4be7-80d4-7c5c9af391c2"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/6c7e1849-0982-4afd-aa7c-1a33af3a3421.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/6c7e1849-0982-4afd-aa7c-1a33af3a3421.png",
+        "proposal": [
+            {
+                "text": "Pokémon Noir & Blanc - Aventures à Unys et au-delà !",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Destinées Rivales",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Combats Galactiques",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6c7e1849-0982-4afd-aa7c-1a33af3a3421"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/88e3d01f-26f5-43ad-ac46-0fef847cbd65.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/88e3d01f-26f5-43ad-ac46-0fef847cbd65.png",
+        "proposal": [
+            {
+                "text": "Pokémon XY",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon XY - La Quête de Kalos",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Aventures",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": false
+            }
+        ],
+        "asset": "88e3d01f-26f5-43ad-ac46-0fef847cbd65"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/06994718-674a-42db-bb4e-e414a0e8149a.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/06994718-674a-42db-bb4e-e414a0e8149a.png",
+        "proposal": [
+            {
+                "text": "Pokémon XY - La Quête de Kalos",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Combats Galactiques",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            }
+        ],
+        "asset": "06994718-674a-42db-bb4e-e414a0e8149a"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/5f74d41a-7be7-484c-9a35-d03d35e246a9.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/5f74d41a-7be7-484c-9a35-d03d35e246a9.png",
+        "proposal": [
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon XY",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Destinées Rivales",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5f74d41a-7be7-484c-9a35-d03d35e246a9"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/67a0bffc-a237-4cda-9af8-c929ef800b4a.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/67a0bffc-a237-4cda-9af8-c929ef800b4a.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Challenge",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            }
+        ],
+        "asset": "67a0bffc-a237-4cda-9af8-c929ef800b4a"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/42baf75f-67f6-4c0b-9e1b-b3f108c83214.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/42baf75f-67f6-4c0b-9e1b-b3f108c83214.png",
+        "proposal": [
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Aventures",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Légendes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "42baf75f-67f6-4c0b-9e1b-b3f108c83214"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/8e6fbfac-0b19-4485-92a8-ac3aebb73901.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/8e6fbfac-0b19-4485-92a8-ac3aebb73901.png",
+        "proposal": [
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Aventures",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8e6fbfac-0b19-4485-92a8-ac3aebb73901"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/f01cace6-b044-4b7a-a5eb-6f109294f0af.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/f01cace6-b044-4b7a-a5eb-6f109294f0af.png",
+        "proposal": [
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Légendes",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Aventures",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XY",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XY - La Quête de Kalos",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f01cace6-b044-4b7a-a5eb-6f109294f0af"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/cb720289-7797-4154-b67f-bfd96abe3f3f.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/cb720289-7797-4154-b67f-bfd96abe3f3f.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Voyages",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cb720289-7797-4154-b67f-bfd96abe3f3f"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/a9e1769b-c3b0-46b5-9916-608ab7b5c5fd.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/a9e1769b-c3b0-46b5-9916-608ab7b5c5fd.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Légendes",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a9e1769b-c3b0-46b5-9916-608ab7b5c5fd"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/15422bd2-e752-479a-9410-5e4092ca36ac.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/15422bd2-e752-479a-9410-5e4092ca36ac.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Voyages d'un Maître",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XYZ",
+                "isAnswer": false
+            }
+        ],
+        "asset": "15422bd2-e752-479a-9410-5e4092ca36ac"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/baaccaa0-6507-4ac3-86a9-4266d12e18ee.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/baaccaa0-6507-4ac3-86a9-4266d12e18ee.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Ligue Indigo",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XY",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            }
+        ],
+        "asset": "baaccaa0-6507-4ac3-86a9-4266d12e18ee"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/4c5dd1ad-3574-4913-8665-0281dcaa979e.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/4c5dd1ad-3574-4913-8665-0281dcaa979e.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Horizons",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Être Maître Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Noir & Blanc - Aventures à Unys et au-delà !",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon XY",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4c5dd1ad-3574-4913-8665-0281dcaa979e"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/c52bec56-4042-4392-9bf3-47af75d748fc.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/c52bec56-4042-4392-9bf3-47af75d748fc.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Challenge",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c52bec56-4042-4392-9bf3-47af75d748fc"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/132a7a88-bdb1-4b39-a60d-d514c440acf5.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/132a7a88-bdb1-4b39-a60d-d514c440acf5.png",
+        "proposal": [
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Ligue Indigo",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            }
+        ],
+        "asset": "132a7a88-bdb1-4b39-a60d-d514c440acf5"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/a066eab7-d8e9-4c8e-a5e8-eb0df527e2b9.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/a066eab7-d8e9-4c8e-a5e8-eb0df527e2b9.png",
+        "proposal": [
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Voyages Ultimes",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Challenge",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Îles Oranges",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Voyages à Johto",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a066eab7-d8e9-4c8e-a5e8-eb0df527e2b9"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/9ba4c6c7-8db9-43a1-a113-2b2e2ec58159.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/9ba4c6c7-8db9-43a1-a113-2b2e2ec58159.png",
+        "proposal": [
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon Advanced Challenge",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Combats Galactiques",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9ba4c6c7-8db9-43a1-a113-2b2e2ec58159"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/1b079b92-c314-468f-853c-239fee8c2949.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/1b079b92-c314-468f-853c-239fee8c2949.png",
+        "proposal": [
+            {
+                "text": "Pokémon Advanced Challenge",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Les Vainqueurs de la Ligue de Sinnoh",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon: Noir & Blanc",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1b079b92-c314-468f-853c-239fee8c2949"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/0b6e6cde-16c3-4caa-ba07-4bc3ada2aaac.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/0b6e6cde-16c3-4caa-ba07-4bc3ada2aaac.png",
+        "proposal": [
+            {
+                "text": "Pokémon Advanced Battle",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Battle Frontier",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Soleil et Lune - Ultra-Légendes",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0b6e6cde-16c3-4caa-ba07-4bc3ada2aaac"
+    },
+    {
+        "sentence": "De quel saison de Pokémon provient ce générique ?",
+        "type": "sound",
+        "sound_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/sounds/pokemon/series/5fcafae5-706d-4de8-9b77-f000e952e2a1.mp3",
+        "picture_reveal_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/pokemon/series/5fcafae5-706d-4de8-9b77-f000e952e2a1.png",
+        "proposal": [
+            {
+                "text": "Pokémon Battle Frontier",
+                "isAnswer": true
+            },
+            {
+                "text": "Pokémon - Diamant et Perle",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon DP - Battle Dimension",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - Les Champions de Johto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon - La Quête Ultime",
+                "isAnswer": false
+            },
+            {
+                "text": "Pokémon Advanced",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5fcafae5-706d-4de8-9b77-f000e952e2a1"
+    }
+]
