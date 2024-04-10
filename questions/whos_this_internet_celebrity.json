@@ -1015,9 +1015,6 @@
             {
                 "text": "McFly et Carlito",
                 "isAnswer": false
-            },
-            {
-                "isAnswer": false
             }
         ],
         "asset": "6459df53-f3a6-49e8-8008-bf3078d07728"
@@ -1045,9 +1042,6 @@
             },
             {
                 "text": "Bigorneau et Coquillage",
-                "isAnswer": false
-            },
-            {
                 "isAnswer": false
             }
         ],
@@ -1077,9 +1071,6 @@
             {
                 "text": "Bigorneau et Coquillage",
                 "isAnswer": false
-            },
-            {
-                "isAnswer": false
             }
         ],
         "asset": "14d81eb8-14d8-4490-bf03-45d6ce7c7e62"
@@ -1108,9 +1099,6 @@
             {
                 "text": "Le Mont Corvo",
                 "isAnswer": false
-            },
-            {
-                "isAnswer": false
             }
         ],
         "asset": "f92509a7-7919-4b16-b321-ba339a6477fa"
@@ -1138,9 +1126,6 @@
             },
             {
                 "text": "Guillaume et Kim",
-                "isAnswer": false
-            },
-            {
                 "isAnswer": false
             }
         ],
