@@ -69,7 +69,7 @@ fs.readdirSync(path.join(__dirname, 'pictures/celebrity_internet')).forEach(file
     questions.push({
         sentence: sentence,
         type: "picture",
-        picture: `https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/${asset}.${fileExtension}`,
+        picture_url: `https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/${asset}.${fileExtension}`,
         proposal: [
             ...proposals
         ],
