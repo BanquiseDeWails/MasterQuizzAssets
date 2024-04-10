@@ -1,0 +1,4445 @@
+[
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/3066f606-63dd-467a-bf58-e7689c301ec7.jpg",
+        "proposal": [
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": true
+            },
+            {
+                "text": "Pidi",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaatsup",
+                "isAnswer": false
+            },
+            {
+                "text": "Gom4rt",
+                "isAnswer": false
+            },
+            {
+                "text": "Horty",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3066f606-63dd-467a-bf58-e7689c301ec7"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4a6f00a1-8540-4435-93d4-e9c5e7b5ee7b.jpg",
+        "proposal": [
+            {
+                "text": "Andy",
+                "isAnswer": true
+            },
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            },
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": false
+            },
+            {
+                "text": "Jeel",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4a6f00a1-8540-4435-93d4-e9c5e7b5ee7b"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/eea40661-fd7c-4e88-902e-34d6dad37d8a.png",
+        "proposal": [
+            {
+                "text": "Aneyaris",
+                "isAnswer": true
+            },
+            {
+                "text": "Kaatsup",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Angle Droit",
+                "isAnswer": false
+            }
+        ],
+        "asset": "eea40661-fd7c-4e88-902e-34d6dad37d8a"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c74384fa-a9d1-4d34-994a-c555c3ca5963.jpg",
+        "proposal": [
+            {
+                "text": "Angle Droit",
+                "isAnswer": true
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            },
+            {
+                "text": "Léna Situations",
+                "isAnswer": false
+            },
+            {
+                "text": "Apo",
+                "isAnswer": false
+            },
+            {
+                "text": "Louisette",
+                "isAnswer": false
+            },
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c74384fa-a9d1-4d34-994a-c555c3ca5963"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/9378f941-e6f0-4db0-ade4-02c4be4167ea.jpg",
+        "proposal": [
+            {
+                "text": "Apo",
+                "isAnswer": true
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            },
+            {
+                "text": "Louisette",
+                "isAnswer": false
+            },
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": false
+            },
+            {
+                "text": "Juju fitcats",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9378f941-e6f0-4db0-ade4-02c4be4167ea"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/227c9b6b-0db9-4e3c-9dab-b750497e77dd.jpg",
+        "proposal": [
+            {
+                "text": "Baghera",
+                "isAnswer": true
+            },
+            {
+                "text": "Juju fitcats",
+                "isAnswer": false
+            },
+            {
+                "text": "Horty",
+                "isAnswer": false
+            },
+            {
+                "text": "Sananas",
+                "isAnswer": false
+            },
+            {
+                "text": "Angle Droit",
+                "isAnswer": false
+            },
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "227c9b6b-0db9-4e3c-9dab-b750497e77dd"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f8e08552-6e91-401b-9ba3-17d0edee593f.jpg",
+        "proposal": [
+            {
+                "text": "Clara Doxal",
+                "isAnswer": true
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Louisette",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f8e08552-6e91-401b-9ba3-17d0edee593f"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f1c2a022-1c28-4bf5-a496-6bb07ac0454e.png",
+        "proposal": [
+            {
+                "text": "Cocotte",
+                "isAnswer": true
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            },
+            {
+                "text": "Angle Droit",
+                "isAnswer": false
+            },
+            {
+                "text": "Louisette",
+                "isAnswer": false
+            },
+            {
+                "text": "Dooms",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f1c2a022-1c28-4bf5-a496-6bb07ac0454e"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/01f0a1ab-50a2-49ae-9f3e-fed754b660d7.png",
+        "proposal": [
+            {
+                "text": "Deujna",
+                "isAnswer": true
+            },
+            {
+                "text": "Cocotte",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            },
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            }
+        ],
+        "asset": "01f0a1ab-50a2-49ae-9f3e-fed754b660d7"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ad7ca857-2927-495b-be12-e796fca36ca6.jpg",
+        "proposal": [
+            {
+                "text": "Dooms",
+                "isAnswer": true
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            },
+            {
+                "text": "Sananas",
+                "isAnswer": false
+            },
+            {
+                "text": "Pidi",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ad7ca857-2927-495b-be12-e796fca36ca6"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2bdde2f8-20af-4dcc-aee7-4b85e6ecd747.jpg",
+        "proposal": [
+            {
+                "text": "Emma Graziano",
+                "isAnswer": true
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            },
+            {
+                "text": "Juju fitcats",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Léna Situations",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2bdde2f8-20af-4dcc-aee7-4b85e6ecd747"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6bcfdb0f-b4b7-45e0-bebd-73ec240c0536.jpg",
+        "proposal": [
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": true
+            },
+            {
+                "text": "Jeel",
+                "isAnswer": false
+            },
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Juju fitcats",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6bcfdb0f-b4b7-45e0-bebd-73ec240c0536"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/a0500f1b-0685-497b-89c2-cd1363673140.jpg",
+        "proposal": [
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": true
+            },
+            {
+                "text": "Baghera",
+                "isAnswer": false
+            },
+            {
+                "text": "Pidi",
+                "isAnswer": false
+            },
+            {
+                "text": "Horty",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a0500f1b-0685-497b-89c2-cd1363673140"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/74b3aa80-540a-4c7c-9b17-debb4878e5cd.png",
+        "proposal": [
+            {
+                "text": "Gom4rt",
+                "isAnswer": true
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            },
+            {
+                "text": "Louisette",
+                "isAnswer": false
+            },
+            {
+                "text": "Dooms",
+                "isAnswer": false
+            }
+        ],
+        "asset": "74b3aa80-540a-4c7c-9b17-debb4878e5cd"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/0150ffc8-eacb-4e11-9ef4-b0bb906322d5.jpg",
+        "proposal": [
+            {
+                "text": "Horty",
+                "isAnswer": true
+            },
+            {
+                "text": "Angle Droit",
+                "isAnswer": false
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Gom4rt",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0150ffc8-eacb-4e11-9ef4-b0bb906322d5"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/1e52df3a-d61d-4da4-9bbe-620f98ae6852.jpg",
+        "proposal": [
+            {
+                "text": "Jeel",
+                "isAnswer": true
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Sananas",
+                "isAnswer": false
+            },
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1e52df3a-d61d-4da4-9bbe-620f98ae6852"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/dfcc4182-9511-4d31-bc06-1f1954961720.jpg",
+        "proposal": [
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": true
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": false
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            }
+        ],
+        "asset": "dfcc4182-9511-4d31-bc06-1f1954961720"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4d15a869-3f35-4148-bc23-7f9c6ec49cc1.jpg",
+        "proposal": [
+            {
+                "text": "Juju fitcats",
+                "isAnswer": true
+            },
+            {
+                "text": "Gom4rt",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4d15a869-3f35-4148-bc23-7f9c6ec49cc1"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/75394c0c-99d1-4a95-a99e-609379b3767e.jpg",
+        "proposal": [
+            {
+                "text": "Kaatsup",
+                "isAnswer": true
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            },
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            },
+            {
+                "text": "Jeel",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Doxal",
+                "isAnswer": false
+            }
+        ],
+        "asset": "75394c0c-99d1-4a95-a99e-609379b3767e"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/328bc645-902e-486f-be97-02f06989d6b7.jpg",
+        "proposal": [
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": true
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            }
+        ],
+        "asset": "328bc645-902e-486f-be97-02f06989d6b7"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f079638f-34d0-47d3-bfb9-295393310a51.jpg",
+        "proposal": [
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": true
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            },
+            {
+                "text": "Baghera",
+                "isAnswer": false
+            },
+            {
+                "text": "Gom4rt",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f079638f-34d0-47d3-bfb9-295393310a51"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/8c2a2cf8-3af6-4352-a977-46fafc48e8c2.jpg",
+        "proposal": [
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": true
+            },
+            {
+                "text": "Sananas",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Baghera",
+                "isAnswer": false
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8c2a2cf8-3af6-4352-a977-46fafc48e8c2"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/9ff83f7f-7210-4695-b206-f98756cf3b11.jpg",
+        "proposal": [
+            {
+                "text": "Louisette",
+                "isAnswer": true
+            },
+            {
+                "text": "EnjoyPhoenix",
+                "isAnswer": false
+            },
+            {
+                "text": "Apo",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            },
+            {
+                "text": "Horty",
+                "isAnswer": false
+            },
+            {
+                "text": "Gom4rt",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9ff83f7f-7210-4695-b206-f98756cf3b11"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/8f15fe42-2cb3-4568-86f8-08a7c8704775.jpg",
+        "proposal": [
+            {
+                "text": "Léna Situations",
+                "isAnswer": true
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Natoo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8f15fe42-2cb3-4568-86f8-08a7c8704775"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c510f449-77af-4598-a355-fe909489b34a.jpg",
+        "proposal": [
+            {
+                "text": "Maghla",
+                "isAnswer": true
+            },
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": false
+            },
+            {
+                "text": "Emma Graziano",
+                "isAnswer": false
+            },
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": false
+            },
+            {
+                "text": "Ultia",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c510f449-77af-4598-a355-fe909489b34a"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/47347611-4440-465a-8968-7d4f976b8405.jpg",
+        "proposal": [
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": true
+            },
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": false
+            },
+            {
+                "text": "Andy",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": false
+            },
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "47347611-4440-465a-8968-7d4f976b8405"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f0a4aa26-ba6e-4638-b5e6-5797c6e261a0.jpg",
+        "proposal": [
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": true
+            },
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pidi",
+                "isAnswer": false
+            },
+            {
+                "text": "Cocotte",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Dooms",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f0a4aa26-ba6e-4638-b5e6-5797c6e261a0"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ea81994e-9e27-4ba7-b51b-c9e975255eb7.jpg",
+        "proposal": [
+            {
+                "text": "Natoo",
+                "isAnswer": true
+            },
+            {
+                "text": "Gaëlle Garcia Diaz",
+                "isAnswer": false
+            },
+            {
+                "text": "Angle Droit",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ea81994e-9e27-4ba7-b51b-c9e975255eb7"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/a31d1208-3e7e-4f46-90f1-30257ce6c827.jpg",
+        "proposal": [
+            {
+                "text": "Pidi",
+                "isAnswer": true
+            },
+            {
+                "text": "Jenny (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Deujna",
+                "isAnswer": false
+            },
+            {
+                "text": "Cocotte",
+                "isAnswer": false
+            },
+            {
+                "text": "L'Atelier de Roxane",
+                "isAnswer": false
+            },
+            {
+                "text": "Adèle Castillon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a31d1208-3e7e-4f46-90f1-30257ce6c827"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/32a41e1d-8a74-4ccd-b6e6-4de8dd3b49b3.jpg",
+        "proposal": [
+            {
+                "text": "Sananas",
+                "isAnswer": true
+            },
+            {
+                "text": "Aneyaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Pidi",
+                "isAnswer": false
+            },
+            {
+                "text": "Dooms",
+                "isAnswer": false
+            },
+            {
+                "text": "LittleBigWhale",
+                "isAnswer": false
+            },
+            {
+                "text": "Miss Jirachi",
+                "isAnswer": false
+            }
+        ],
+        "asset": "32a41e1d-8a74-4ccd-b6e6-4de8dd3b49b3"
+    },
+    {
+        "sentence": "Quel est le nom de cette influenceuse ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/1587b4cc-25e3-46b7-809e-5d0a2ccf18c8.jpg",
+        "proposal": [
+            {
+                "text": "Ultia",
+                "isAnswer": true
+            },
+            {
+                "text": "Kaatsup",
+                "isAnswer": false
+            },
+            {
+                "text": "Horty",
+                "isAnswer": false
+            },
+            {
+                "text": "Mary (FrozenCrystal)",
+                "isAnswer": false
+            },
+            {
+                "text": "Lenna Vivas",
+                "isAnswer": false
+            },
+            {
+                "text": "Maghla",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1587b4cc-25e3-46b7-809e-5d0a2ccf18c8"
+    },
+    {
+        "sentence": "Quel est le nom de ce groupe d'influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6459df53-f3a6-49e8-8008-bf3078d07728.jpg",
+        "proposal": [
+            {
+                "text": "Bigorneau et Coquillage",
+                "isAnswer": true
+            },
+            {
+                "text": "Le Mont Corvo",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume et Kim",
+                "isAnswer": false
+            },
+            {
+                "text": "Studio Danielle",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly et Carlito",
+                "isAnswer": false
+            },
+            {
+                "isAnswer": false
+            }
+        ],
+        "asset": "6459df53-f3a6-49e8-8008-bf3078d07728"
+    },
+    {
+        "sentence": "Quel est le nom de ce groupe d'influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f44e8ebb-7cc7-4daa-bb1b-4f48b08fe912.png",
+        "proposal": [
+            {
+                "text": "Guillaume et Kim",
+                "isAnswer": true
+            },
+            {
+                "text": "Studio Danielle",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly et Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Mont Corvo",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigorneau et Coquillage",
+                "isAnswer": false
+            },
+            {
+                "isAnswer": false
+            }
+        ],
+        "asset": "f44e8ebb-7cc7-4daa-bb1b-4f48b08fe912"
+    },
+    {
+        "sentence": "Quel est le nom de ce groupe d'influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/14d81eb8-14d8-4490-bf03-45d6ce7c7e62.jpg",
+        "proposal": [
+            {
+                "text": "Le Mont Corvo",
+                "isAnswer": true
+            },
+            {
+                "text": "Guillaume et Kim",
+                "isAnswer": false
+            },
+            {
+                "text": "Studio Danielle",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly et Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigorneau et Coquillage",
+                "isAnswer": false
+            },
+            {
+                "isAnswer": false
+            }
+        ],
+        "asset": "14d81eb8-14d8-4490-bf03-45d6ce7c7e62"
+    },
+    {
+        "sentence": "Quel est le nom de ce groupe d'influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f92509a7-7919-4b16-b321-ba339a6477fa.jpg",
+        "proposal": [
+            {
+                "text": "McFly et Carlito",
+                "isAnswer": true
+            },
+            {
+                "text": "Bigorneau et Coquillage",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume et Kim",
+                "isAnswer": false
+            },
+            {
+                "text": "Studio Danielle",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Mont Corvo",
+                "isAnswer": false
+            },
+            {
+                "isAnswer": false
+            }
+        ],
+        "asset": "f92509a7-7919-4b16-b321-ba339a6477fa"
+    },
+    {
+        "sentence": "Quel est le nom de ce groupe d'influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/65ab263f-18a6-4156-ace0-26639880ce50.jpg",
+        "proposal": [
+            {
+                "text": "Studio Danielle",
+                "isAnswer": true
+            },
+            {
+                "text": "Bigorneau et Coquillage",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly et Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Mont Corvo",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume et Kim",
+                "isAnswer": false
+            },
+            {
+                "isAnswer": false
+            }
+        ],
+        "asset": "65ab263f-18a6-4156-ace0-26639880ce50"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2ba99962-8c3c-4df3-90ef-0e15976db181.jpg",
+        "proposal": [
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": true
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "IbraTV",
+                "isAnswer": false
+            },
+            {
+                "text": "DiGiDiX",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Raska",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2ba99962-8c3c-4df3-90ef-0e15976db181"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/bc1146ec-58d6-49d8-abf3-cea13628f39b.png",
+        "proposal": [
+            {
+                "text": "AlphaCast",
+                "isAnswer": true
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "David fils de Momone",
+                "isAnswer": false
+            },
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            }
+        ],
+        "asset": "bc1146ec-58d6-49d8-abf3-cea13628f39b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/b6716df9-a2b3-4029-86ad-be40eefbb8a1.jpg",
+        "proposal": [
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": true
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Colas BIM",
+                "isAnswer": false
+            },
+            {
+                "text": "Locklear",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "Siphano",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b6716df9-a2b3-4029-86ad-be40eefbb8a1"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/9d38e910-fed7-4619-9242-724870d201c2.webp",
+        "proposal": [
+            {
+                "text": "Amixem",
+                "isAnswer": true
+            },
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": false
+            },
+            {
+                "text": "Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Croce",
+                "isAnswer": false
+            },
+            {
+                "text": "Sylvain Levy",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9d38e910-fed7-4619-9242-724870d201c2"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/36062114-0054-4e97-9e89-7c63c7df3fd8.jpg",
+        "proposal": [
+            {
+                "text": "Antoine Daniel",
+                "isAnswer": true
+            },
+            {
+                "text": "Ponce",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Grand JD",
+                "isAnswer": false
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            }
+        ],
+        "asset": "36062114-0054-4e97-9e89-7c63c7df3fd8"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2cce07d3-1c27-44b5-998e-e7201c59a360.jpg",
+        "proposal": [
+            {
+                "text": "ATOM",
+                "isAnswer": true
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Croce",
+                "isAnswer": false
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2cce07d3-1c27-44b5-998e-e7201c59a360"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ab2f426f-65c0-4c76-8d42-0c71b2141eea.jpg",
+        "proposal": [
+            {
+                "text": "Aypierre",
+                "isAnswer": true
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            },
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ab2f426f-65c0-4c76-8d42-0c71b2141eea"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/b8f0d35f-eec3-479c-a459-dd0e339d3d15.jpg",
+        "proposal": [
+            {
+                "text": "Benjamin Verrecchia",
+                "isAnswer": true
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            },
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": false
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b8f0d35f-eec3-479c-a459-dd0e339d3d15"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/e757c2bc-750b-4122-9333-87f126fc9eb3.png",
+        "proposal": [
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": true
+            },
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": false
+            },
+            {
+                "text": "Mickalow",
+                "isAnswer": false
+            },
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e757c2bc-750b-4122-9333-87f126fc9eb3"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/3125049a-24da-418a-b150-7115bc2eeb0c.jpg",
+        "proposal": [
+            {
+                "text": "Brawks",
+                "isAnswer": true
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            },
+            {
+                "text": "TheKairy78",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3125049a-24da-418a-b150-7115bc2eeb0c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/25656091-7a5f-4ae0-a83b-c0b64a9af7d4.jpg",
+        "proposal": [
+            {
+                "text": "Byilhann",
+                "isAnswer": true
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "FastGoodCuisine",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            }
+        ],
+        "asset": "25656091-7a5f-4ae0-a83b-c0b64a9af7d4"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/9268a926-482c-4c92-a545-ac8016006052.jpg",
+        "proposal": [
+            {
+                "text": "Carlito",
+                "isAnswer": true
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Siphano",
+                "isAnswer": false
+            },
+            {
+                "text": "Joyca",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9268a926-482c-4c92-a545-ac8016006052"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/9b2a5c1b-3c0f-4b4a-95bb-876203cc4101.jpg",
+        "proposal": [
+            {
+                "text": "Chris",
+                "isAnswer": true
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Sylvain Levy",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9b2a5c1b-3c0f-4b4a-95bb-876203cc4101"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/94eba8f3-9a5e-49be-99b5-f6b670d98f85.jpg",
+        "proposal": [
+            {
+                "text": "Colas BIM",
+                "isAnswer": true
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Zerator",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            }
+        ],
+        "asset": "94eba8f3-9a5e-49be-99b5-f6b670d98f85"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ea8dbd56-d7c3-4367-b637-5480aaefa231.jpg",
+        "proposal": [
+            {
+                "text": "Cyprien",
+                "isAnswer": true
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            },
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "David La Farge",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ea8dbd56-d7c3-4367-b637-5480aaefa231"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4af77631-b938-4d78-aa70-7583589ed854.jpg",
+        "proposal": [
+            {
+                "text": "CYRILmp4",
+                "isAnswer": true
+            },
+            {
+                "text": "Yvan Casta",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume",
+                "isAnswer": false
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4af77631-b938-4d78-aa70-7583589ed854"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/b59ea5dd-9a45-40ec-9b46-0cf7b9542e4b.jpg",
+        "proposal": [
+            {
+                "text": "David fils de Momone",
+                "isAnswer": true
+            },
+            {
+                "text": "Fabien Olicard",
+                "isAnswer": false
+            },
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": false
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "CYRILmp4",
+                "isAnswer": false
+            },
+            {
+                "text": "Antoine Daniel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b59ea5dd-9a45-40ec-9b46-0cf7b9542e4b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/37c16d2c-4ede-4b75-b424-f7fe6473a526.jpg",
+        "proposal": [
+            {
+                "text": "David La Farge",
+                "isAnswer": true
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "DiGiDiX",
+                "isAnswer": false
+            }
+        ],
+        "asset": "37c16d2c-4ede-4b75-b424-f7fe6473a526"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/8546dd16-6712-4882-8b81-e6321ab478e3.jpg",
+        "proposal": [
+            {
+                "text": "DiGiDiX",
+                "isAnswer": true
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8546dd16-6712-4882-8b81-e6321ab478e3"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/717289c9-e8ec-4f39-a8b8-b1c546206b6a.jpg",
+        "proposal": [
+            {
+                "text": "Djilsi",
+                "isAnswer": true
+            },
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": false
+            },
+            {
+                "text": "Siphano",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            }
+        ],
+        "asset": "717289c9-e8ec-4f39-a8b8-b1c546206b6a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2d9c6cf1-e9e1-452b-822b-91f8ed491749.jpg",
+        "proposal": [
+            {
+                "text": "Doigby",
+                "isAnswer": true
+            },
+            {
+                "text": "Le Grand JD",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Joyca",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2d9c6cf1-e9e1-452b-822b-91f8ed491749"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/83ca6612-33f4-4a34-a75d-f4e16a39708b.jpg",
+        "proposal": [
+            {
+                "text": "Domingo",
+                "isAnswer": true
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "FuzeIII",
+                "isAnswer": false
+            }
+        ],
+        "asset": "83ca6612-33f4-4a34-a75d-f4e16a39708b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c0ae863d-dfed-4e4d-9d1d-350c5633ca3e.jpg",
+        "proposal": [
+            {
+                "text": "Dr Nozman",
+                "isAnswer": true
+            },
+            {
+                "text": "GrimKujow",
+                "isAnswer": false
+            },
+            {
+                "text": "Zerator",
+                "isAnswer": false
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c0ae863d-dfed-4e4d-9d1d-350c5633ca3e"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/30878ef8-6cfb-42bb-9777-a5a4a29cf124.jpg",
+        "proposal": [
+            {
+                "text": "DrFeelGood",
+                "isAnswer": true
+            },
+            {
+                "text": "Mohamed Henni",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            },
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxime Biaggi",
+                "isAnswer": false
+            }
+        ],
+        "asset": "30878ef8-6cfb-42bb-9777-a5a4a29cf124"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/93eeff82-d36b-4d9a-9d83-cde28fa49fdf.webp",
+        "proposal": [
+            {
+                "text": "Etoiles",
+                "isAnswer": true
+            },
+            {
+                "text": "Mohamed Henni",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            },
+            {
+                "text": "Jbzz",
+                "isAnswer": false
+            },
+            {
+                "text": "Joyca",
+                "isAnswer": false
+            }
+        ],
+        "asset": "93eeff82-d36b-4d9a-9d83-cde28fa49fdf"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/385c196e-8cb5-4b5b-b387-04ebb81ff44a.jpg",
+        "proposal": [
+            {
+                "text": "Fabien Olicard",
+                "isAnswer": true
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Benjamin Verrecchia",
+                "isAnswer": false
+            },
+            {
+                "text": "Louis San",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            }
+        ],
+        "asset": "385c196e-8cb5-4b5b-b387-04ebb81ff44a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/d1164558-1678-41c0-aac7-ec7f8eac87f7.jpg",
+        "proposal": [
+            {
+                "text": "FastGoodCuisine",
+                "isAnswer": true
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            },
+            {
+                "text": "TheKairy78",
+                "isAnswer": false
+            },
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": false
+            },
+            {
+                "text": "GrimKujow",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            }
+        ],
+        "asset": "d1164558-1678-41c0-aac7-ec7f8eac87f7"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2f94de90-99d0-45e8-95b3-9cecbef252e4.jpg",
+        "proposal": [
+            {
+                "text": "Fildrong",
+                "isAnswer": true
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "Siphano",
+                "isAnswer": false
+            },
+            {
+                "text": "Linca",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2f94de90-99d0-45e8-95b3-9cecbef252e4"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/3d4440fc-79c4-4ae7-8357-fbf14aaeaa75.jpg",
+        "proposal": [
+            {
+                "text": "Flamby",
+                "isAnswer": true
+            },
+            {
+                "text": "Kameto",
+                "isAnswer": false
+            },
+            {
+                "text": "Locklear",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            },
+            {
+                "text": "David fils de Momone",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3d4440fc-79c4-4ae7-8357-fbf14aaeaa75"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/04a43321-b359-4346-9d1c-912049161b83.jpg",
+        "proposal": [
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": true
+            },
+            {
+                "text": "ATOM",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            }
+        ],
+        "asset": "04a43321-b359-4346-9d1c-912049161b83"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/de4df6ff-5f92-4ebc-aba4-0c98fe79681c.jpg",
+        "proposal": [
+            {
+                "text": "Furious Jumper",
+                "isAnswer": true
+            },
+            {
+                "text": "TheKairy78",
+                "isAnswer": false
+            },
+            {
+                "text": "SEB",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyrozz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "de4df6ff-5f92-4ebc-aba4-0c98fe79681c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/daa03fd0-b9ab-4415-9c91-7d27b6cb40b8.jpg",
+        "proposal": [
+            {
+                "text": "FuzeIII",
+                "isAnswer": true
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Léo",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Inoxtag",
+                "isAnswer": false
+            }
+        ],
+        "asset": "daa03fd0-b9ab-4415-9c91-7d27b6cb40b8"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/3dc2ad69-bbd4-461b-97d9-3bd61f5cf789.jpg",
+        "proposal": [
+            {
+                "text": "GMK",
+                "isAnswer": true
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Ponce",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3dc2ad69-bbd4-461b-97d9-3bd61f5cf789"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/5eeac68e-d511-4e24-9874-ec26dadf173c.jpg",
+        "proposal": [
+            {
+                "text": "Gotaga",
+                "isAnswer": true
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Guillaume",
+                "isAnswer": false
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5eeac68e-d511-4e24-9874-ec26dadf173c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/23a74052-90fd-40d4-b0ca-cd416ab63edf.jpg",
+        "proposal": [
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": true
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            },
+            {
+                "text": "Kameto",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            }
+        ],
+        "asset": "23a74052-90fd-40d4-b0ca-cd416ab63edf"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/e266b852-1ac6-4ad1-b331-1206bc40eb0c.webp",
+        "proposal": [
+            {
+                "text": "GrimKujow",
+                "isAnswer": true
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": false
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e266b852-1ac6-4ad1-b331-1206bc40eb0c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/7dbcefc9-81d6-4e23-913f-df0f04a885db.jpg",
+        "proposal": [
+            {
+                "text": "Guillaume",
+                "isAnswer": true
+            },
+            {
+                "text": "David fils de Momone",
+                "isAnswer": false
+            },
+            {
+                "text": "LeBouseuh",
+                "isAnswer": false
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7dbcefc9-81d6-4e23-913f-df0f04a885db"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4a654591-2170-4b8d-9c74-3632173ee0fa.jpg",
+        "proposal": [
+            {
+                "text": "Gurky",
+                "isAnswer": true
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "Ponce",
+                "isAnswer": false
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            },
+            {
+                "text": "David La Farge",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Croce",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4a654591-2170-4b8d-9c74-3632173ee0fa"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/1d1a3275-fccb-4f22-b2f1-89ee48ee5fab.jpg",
+        "proposal": [
+            {
+                "text": "HcTuan",
+                "isAnswer": true
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Mastu",
+                "isAnswer": false
+            },
+            {
+                "text": "Locklear",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1d1a3275-fccb-4f22-b2f1-89ee48ee5fab"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/411f9eee-ff75-4f5e-90ef-6b6372a747b7.jpg",
+        "proposal": [
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": true
+            },
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxime Biaggi",
+                "isAnswer": false
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "411f9eee-ff75-4f5e-90ef-6b6372a747b7"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/7b6da873-caba-4532-bfe3-c1f5fc2f9f2a.jpg",
+        "proposal": [
+            {
+                "text": "Henry Tran",
+                "isAnswer": true
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Inoxtag",
+                "isAnswer": false
+            },
+            {
+                "text": "Amixem",
+                "isAnswer": false
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7b6da873-caba-4532-bfe3-c1f5fc2f9f2a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/009a95c7-debd-4e59-94c4-f4abba008622.jpg",
+        "proposal": [
+            {
+                "text": "Hugo Délire",
+                "isAnswer": true
+            },
+            {
+                "text": "Laink",
+                "isAnswer": false
+            },
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": false
+            },
+            {
+                "text": "Colas BIM",
+                "isAnswer": false
+            },
+            {
+                "text": "Djilsi",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            }
+        ],
+        "asset": "009a95c7-debd-4e59-94c4-f4abba008622"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/52798b64-32d0-47dc-a755-e7f30f88ee0e.jpg",
+        "proposal": [
+            {
+                "text": "Hugo Posé",
+                "isAnswer": true
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "Benjamin Verrecchia",
+                "isAnswer": false
+            },
+            {
+                "text": "Doigby",
+                "isAnswer": false
+            }
+        ],
+        "asset": "52798b64-32d0-47dc-a755-e7f30f88ee0e"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/d319740b-bc47-4ae6-a159-3294429bcd8b.jpg",
+        "proposal": [
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": true
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Etoiles",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            }
+        ],
+        "asset": "d319740b-bc47-4ae6-a159-3294429bcd8b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/b852084c-25a0-4e51-aea2-5d6a2838b118.jpg",
+        "proposal": [
+            {
+                "text": "IbraTV",
+                "isAnswer": true
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxime Biaggi",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b852084c-25a0-4e51-aea2-5d6a2838b118"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/0edcba2b-511d-470f-9d5c-db3ce7f8edaa.jpg",
+        "proposal": [
+            {
+                "text": "Inoxtag",
+                "isAnswer": true
+            },
+            {
+                "text": "Mickalow",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly",
+                "isAnswer": false
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0edcba2b-511d-470f-9d5c-db3ce7f8edaa"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/e07b9b6c-7045-4061-9fe4-e9b5187cade1.jpg",
+        "proposal": [
+            {
+                "text": "Jamy",
+                "isAnswer": true
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Mastu",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e07b9b6c-7045-4061-9fe4-e9b5187cade1"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/0cadd189-e2c9-413b-bcb2-4b7babfe70da.jpg",
+        "proposal": [
+            {
+                "text": "Jbzz",
+                "isAnswer": true
+            },
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Sardoche",
+                "isAnswer": false
+            },
+            {
+                "text": "Inoxtag",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0cadd189-e2c9-413b-bcb2-4b7babfe70da"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/a93891c5-ec0d-4636-805a-4d8b84273e5b.webp",
+        "proposal": [
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": true
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            },
+            {
+                "text": "SEB",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a93891c5-ec0d-4636-805a-4d8b84273e5b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6bb175a7-4307-4c15-807f-4bf82c6ae275.jpg",
+        "proposal": [
+            {
+                "text": "Jojol",
+                "isAnswer": true
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "TheKairy78",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6bb175a7-4307-4c15-807f-4bf82c6ae275"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/180df450-50cf-4fe4-944e-c9ba0d31fee1.jpg",
+        "proposal": [
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": true
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "LeBouseuh",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            },
+            {
+                "text": "Amixem",
+                "isAnswer": false
+            }
+        ],
+        "asset": "180df450-50cf-4fe4-944e-c9ba0d31fee1"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/99e78776-90f5-4c53-b74e-a1c72f568a23.jpg",
+        "proposal": [
+            {
+                "text": "Joyca",
+                "isAnswer": true
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly",
+                "isAnswer": false
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Michou",
+                "isAnswer": false
+            },
+            {
+                "text": "Sora",
+                "isAnswer": false
+            }
+        ],
+        "asset": "99e78776-90f5-4c53-b74e-a1c72f568a23"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/82a3059b-fbeb-4cd7-8d55-4abb4b710171.jpg",
+        "proposal": [
+            {
+                "text": "Kameto",
+                "isAnswer": true
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "Potatoz",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": false
+            }
+        ],
+        "asset": "82a3059b-fbeb-4cd7-8d55-4abb4b710171"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/8d6d8206-26b3-4359-a199-9c6721e8f653.jpg",
+        "proposal": [
+            {
+                "text": "Kevin Tran",
+                "isAnswer": true
+            },
+            {
+                "text": "Michou",
+                "isAnswer": false
+            },
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": false
+            },
+            {
+                "text": "Linca",
+                "isAnswer": false
+            },
+            {
+                "text": "Amixem",
+                "isAnswer": false
+            },
+            {
+                "text": "Sylvain Levy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8d6d8206-26b3-4359-a199-9c6721e8f653"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/0733cdba-c59d-4344-9baa-1f2a7048c12c.jpg",
+        "proposal": [
+            {
+                "text": "Laink",
+                "isAnswer": true
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Sylvain Levy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0733cdba-c59d-4344-9baa-1f2a7048c12c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2885b4e4-8353-456e-9a01-91318140a56b.jpg",
+        "proposal": [
+            {
+                "text": "Le Grand JD",
+                "isAnswer": true
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            },
+            {
+                "text": "Doigby",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2885b4e4-8353-456e-9a01-91318140a56b"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/cf66e1a3-c5c8-416d-933e-a547e0b3a356.jpg",
+        "proposal": [
+            {
+                "text": "LeBouseuh",
+                "isAnswer": true
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "Mickalow",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cf66e1a3-c5c8-416d-933e-a547e0b3a356"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f0887cf4-de39-41d8-a5e5-6365d617305e.webp",
+        "proposal": [
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": true
+            },
+            {
+                "text": "IbraTV",
+                "isAnswer": false
+            },
+            {
+                "text": "David fils de Momone",
+                "isAnswer": false
+            },
+            {
+                "text": "Antoine Daniel",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f0887cf4-de39-41d8-a5e5-6365d617305e"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/f2ffa2b4-afe3-4425-bcbb-1eec65666f63.jpg",
+        "proposal": [
+            {
+                "text": "Linca",
+                "isAnswer": true
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Kameto",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f2ffa2b4-afe3-4425-bcbb-1eec65666f63"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/468b1a48-4318-4853-b49c-774d5c056cde.png",
+        "proposal": [
+            {
+                "text": "Locklear",
+                "isAnswer": true
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "FastGoodCuisine",
+                "isAnswer": false
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            }
+        ],
+        "asset": "468b1a48-4318-4853-b49c-774d5c056cde"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/057dab7b-54eb-42a0-b40c-7b8ba8c58bbc.jpg",
+        "proposal": [
+            {
+                "text": "Louis San",
+                "isAnswer": true
+            },
+            {
+                "text": "Pierre Croce",
+                "isAnswer": false
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "Alexandre Calvez",
+                "isAnswer": false
+            },
+            {
+                "text": "FuzeIII",
+                "isAnswer": false
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            }
+        ],
+        "asset": "057dab7b-54eb-42a0-b40c-7b8ba8c58bbc"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6e7b87e7-ad17-47ea-9493-acbf47969782.jpg",
+        "proposal": [
+            {
+                "text": "Lutti",
+                "isAnswer": true
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": false
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6e7b87e7-ad17-47ea-9493-acbf47969782"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c3554f86-6eb5-4d1d-867a-2fc4b1d8165a.jpg",
+        "proposal": [
+            {
+                "text": "Léo",
+                "isAnswer": true
+            },
+            {
+                "text": "Zerator",
+                "isAnswer": false
+            },
+            {
+                "text": "Jojol",
+                "isAnswer": false
+            },
+            {
+                "text": "CYRILmp4",
+                "isAnswer": false
+            },
+            {
+                "text": "Étienne",
+                "isAnswer": false
+            },
+            {
+                "text": "Laink",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c3554f86-6eb5-4d1d-867a-2fc4b1d8165a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6035d91c-1c90-4d2d-8821-7cb9bc177ff9.jpg",
+        "proposal": [
+            {
+                "text": "Mastu",
+                "isAnswer": true
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6035d91c-1c90-4d2d-8821-7cb9bc177ff9"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/276523ee-af91-4182-b494-b3c075872eae.jpg",
+        "proposal": [
+            {
+                "text": "MATH",
+                "isAnswer": true
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "276523ee-af91-4182-b494-b3c075872eae"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/89731c79-01a5-401c-a95c-bb565c006d4d.jpg",
+        "proposal": [
+            {
+                "text": "Maxence",
+                "isAnswer": true
+            },
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            }
+        ],
+        "asset": "89731c79-01a5-401c-a95c-bb565c006d4d"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ff0f5f0d-396e-4374-a2c3-f3120dfc9e21.webp",
+        "proposal": [
+            {
+                "text": "Maxime Biaggi",
+                "isAnswer": true
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Jbzz",
+                "isAnswer": false
+            },
+            {
+                "text": "Etoiles",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ff0f5f0d-396e-4374-a2c3-f3120dfc9e21"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/2ec1703e-8c7c-407a-bee4-858cc634d4d4.png",
+        "proposal": [
+            {
+                "text": "McFly",
+                "isAnswer": true
+            },
+            {
+                "text": "David La Farge",
+                "isAnswer": false
+            },
+            {
+                "text": "Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": false
+            },
+            {
+                "text": "Greg Guillotin",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2ec1703e-8c7c-407a-bee4-858cc634d4d4"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/427a07db-9105-4bcc-a8b0-4f34cb9ad050.jpg",
+        "proposal": [
+            {
+                "text": "Michou",
+                "isAnswer": true
+            },
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            }
+        ],
+        "asset": "427a07db-9105-4bcc-a8b0-4f34cb9ad050"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c9212e91-9424-4276-97bb-b201257b8ae1.jpg",
+        "proposal": [
+            {
+                "text": "Mickalow",
+                "isAnswer": true
+            },
+            {
+                "text": "Billy (RebeuDeter)",
+                "isAnswer": false
+            },
+            {
+                "text": "Linca",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            },
+            {
+                "text": "Joyca",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c9212e91-9424-4276-97bb-b201257b8ae1"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/6f34f84d-bfe3-4e81-8694-5dd292329360.jpg",
+        "proposal": [
+            {
+                "text": "Micode",
+                "isAnswer": true
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Mister V",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6f34f84d-bfe3-4e81-8694-5dd292329360"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/ad4bb12d-d189-4ac0-a0a9-af9b18aa68fb.jpg",
+        "proposal": [
+            {
+                "text": "Mister V",
+                "isAnswer": true
+            },
+            {
+                "text": "Inoxtag",
+                "isAnswer": false
+            },
+            {
+                "text": "Sardoche",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            },
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": false
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ad4bb12d-d189-4ac0-a0a9-af9b18aa68fb"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/88aa3124-533a-49d3-923d-76e0ba001a6f.jpg",
+        "proposal": [
+            {
+                "text": "Mohamed Henni",
+                "isAnswer": true
+            },
+            {
+                "text": "Mister V",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            },
+            {
+                "text": "Joyca",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Jamy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "88aa3124-533a-49d3-923d-76e0ba001a6f"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/36fa566a-5a76-41bb-91c5-aa67b291a205.jpg",
+        "proposal": [
+            {
+                "text": "Mynthos",
+                "isAnswer": true
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "GrimKujow",
+                "isAnswer": false
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": false
+            }
+        ],
+        "asset": "36fa566a-5a76-41bb-91c5-aa67b291a205"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4f04da2d-ac60-47b8-b0e2-422dd5c2ca80.jpg",
+        "proposal": [
+            {
+                "text": "Nikof",
+                "isAnswer": true
+            },
+            {
+                "text": "Thomas Deseur",
+                "isAnswer": false
+            },
+            {
+                "text": "McFly",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Lutti",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4f04da2d-ac60-47b8-b0e2-422dd5c2ca80"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/a17c4d90-8e1a-40a2-860c-143d40437fa5.jpg",
+        "proposal": [
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": true
+            },
+            {
+                "text": "Inoxtag",
+                "isAnswer": false
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Dr Nozman",
+                "isAnswer": false
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            },
+            {
+                "text": "Cyprien",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a17c4d90-8e1a-40a2-860c-143d40437fa5"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/fd3c6e42-3b24-4305-b860-c5ba7c2b1ca1.webp",
+        "proposal": [
+            {
+                "text": "Pierre Croce",
+                "isAnswer": true
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Sora",
+                "isAnswer": false
+            },
+            {
+                "text": "HugoDécrypte",
+                "isAnswer": false
+            },
+            {
+                "text": "Léo",
+                "isAnswer": false
+            },
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": false
+            }
+        ],
+        "asset": "fd3c6e42-3b24-4305-b860-c5ba7c2b1ca1"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/05a08e92-8686-47e2-942a-30e51f2a6f06.png",
+        "proposal": [
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": true
+            },
+            {
+                "text": "FastGoodCuisine",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Colas BIM",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            }
+        ],
+        "asset": "05a08e92-8686-47e2-942a-30e51f2a6f06"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/16e3c4c8-a86b-4022-ab5a-9d5f54818cc9.jpg",
+        "proposal": [
+            {
+                "text": "Ponce",
+                "isAnswer": true
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            },
+            {
+                "text": "Mohamed Henni",
+                "isAnswer": false
+            }
+        ],
+        "asset": "16e3c4c8-a86b-4022-ab5a-9d5f54818cc9"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/30771f4e-5016-40c2-be73-d41bd2fcde5f.jpg",
+        "proposal": [
+            {
+                "text": "Potatoz",
+                "isAnswer": true
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            },
+            {
+                "text": "Sardoche",
+                "isAnswer": false
+            },
+            {
+                "text": "Terracid",
+                "isAnswer": false
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "Yvan Casta",
+                "isAnswer": false
+            }
+        ],
+        "asset": "30771f4e-5016-40c2-be73-d41bd2fcde5f"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/5363ae74-de39-4ebd-a909-7226476056f2.jpg",
+        "proposal": [
+            {
+                "text": "Raska",
+                "isAnswer": true
+            },
+            {
+                "text": "Thomas Deseur",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Benjamin Verrecchia",
+                "isAnswer": false
+            },
+            {
+                "text": "Djilsi",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5363ae74-de39-4ebd-a909-7226476056f2"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/c48f4697-6c72-4542-8d1a-65aac025c60a.jpg",
+        "proposal": [
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": true
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            },
+            {
+                "text": "ATOM",
+                "isAnswer": false
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            },
+            {
+                "text": "IbraTV",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c48f4697-6c72-4542-8d1a-65aac025c60a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/4c8937a3-2782-4426-bcde-a804115d0293.jpg",
+        "proposal": [
+            {
+                "text": "Samuel Etienne",
+                "isAnswer": true
+            },
+            {
+                "text": "Étienne",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            },
+            {
+                "text": "Nikof",
+                "isAnswer": false
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Grand JD",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4c8937a3-2782-4426-bcde-a804115d0293"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/7a4179b4-b6a8-4d5c-b340-306f353f2d8d.jpg",
+        "proposal": [
+            {
+                "text": "Sardoche",
+                "isAnswer": true
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Fabien Olicard",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7a4179b4-b6a8-4d5c-b340-306f353f2d8d"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/80a2f408-c7ea-4c83-867e-2ff28aed3f1d.jpg",
+        "proposal": [
+            {
+                "text": "SEB",
+                "isAnswer": true
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Mastu",
+                "isAnswer": false
+            },
+            {
+                "text": "Gurky",
+                "isAnswer": false
+            },
+            {
+                "text": "Colas BIM",
+                "isAnswer": false
+            },
+            {
+                "text": "Linca",
+                "isAnswer": false
+            }
+        ],
+        "asset": "80a2f408-c7ea-4c83-867e-2ff28aed3f1d"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/be04b84a-20df-415d-b0a7-79d2d6b2357c.jpg",
+        "proposal": [
+            {
+                "text": "Siphano",
+                "isAnswer": true
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            },
+            {
+                "text": "CYRILmp4",
+                "isAnswer": false
+            },
+            {
+                "text": "GrimKujow",
+                "isAnswer": false
+            },
+            {
+                "text": "Furious Jumper",
+                "isAnswer": false
+            },
+            {
+                "text": "Étienne",
+                "isAnswer": false
+            }
+        ],
+        "asset": "be04b84a-20df-415d-b0a7-79d2d6b2357c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/31602464-c1d7-48fc-b60d-22eb1e3eb31a.jpg",
+        "proposal": [
+            {
+                "text": "Skyrozz",
+                "isAnswer": true
+            },
+            {
+                "text": "Louis San",
+                "isAnswer": false
+            },
+            {
+                "text": "Superconeri",
+                "isAnswer": false
+            },
+            {
+                "text": "Siphano",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Délire",
+                "isAnswer": false
+            }
+        ],
+        "asset": "31602464-c1d7-48fc-b60d-22eb1e3eb31a"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/1b422912-eda4-416f-9899-cfe3e48fd5f8.jpg",
+        "proposal": [
+            {
+                "text": "Skyyart",
+                "isAnswer": true
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "Henri Hihacks",
+                "isAnswer": false
+            },
+            {
+                "text": "Léo",
+                "isAnswer": false
+            },
+            {
+                "text": "Zerator",
+                "isAnswer": false
+            },
+            {
+                "text": "Mastu",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1b422912-eda4-416f-9899-cfe3e48fd5f8"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/90bf0635-6626-4eeb-9ae0-a130474ec9a7.jpg",
+        "proposal": [
+            {
+                "text": "Sora",
+                "isAnswer": true
+            },
+            {
+                "text": "Mohamed Henni",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Potatoz",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Grand JD",
+                "isAnswer": false
+            }
+        ],
+        "asset": "90bf0635-6626-4eeb-9ae0-a130474ec9a7"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/cf777209-c817-4fb0-b0d5-cbea9192adc5.jpg",
+        "proposal": [
+            {
+                "text": "Squeezie",
+                "isAnswer": true
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            },
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": false
+            },
+            {
+                "text": "Le Grand JD",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxence",
+                "isAnswer": false
+            },
+            {
+                "text": "Jbzz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cf777209-c817-4fb0-b0d5-cbea9192adc5"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/706f7471-c875-46d3-bbcd-deb6d98f00e0.jpg",
+        "proposal": [
+            {
+                "text": "Superconeri",
+                "isAnswer": true
+            },
+            {
+                "text": "Flamby",
+                "isAnswer": false
+            },
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": false
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugo Posé",
+                "isAnswer": false
+            },
+            {
+                "text": "Valouzz",
+                "isAnswer": false
+            }
+        ],
+        "asset": "706f7471-c875-46d3-bbcd-deb6d98f00e0"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/094562b9-d024-4c64-9062-db4a354e1e51.jpg",
+        "proposal": [
+            {
+                "text": "Sylvain Levy",
+                "isAnswer": true
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "Skyyart",
+                "isAnswer": false
+            },
+            {
+                "text": "Benjamin Verrecchia",
+                "isAnswer": false
+            },
+            {
+                "text": "Louis San",
+                "isAnswer": false
+            },
+            {
+                "text": "Aypierre",
+                "isAnswer": false
+            }
+        ],
+        "asset": "094562b9-d024-4c64-9062-db4a354e1e51"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/85c42d30-49c6-42db-9234-f419298aeec6.jpg",
+        "proposal": [
+            {
+                "text": "Terracid",
+                "isAnswer": true
+            },
+            {
+                "text": "ATOM",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Kevin Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            }
+        ],
+        "asset": "85c42d30-49c6-42db-9234-f419298aeec6"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/85103045-260d-44a9-95ac-3934b58fb626.png",
+        "proposal": [
+            {
+                "text": "TheGuill84",
+                "isAnswer": true
+            },
+            {
+                "text": "Carlito",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Joueur du Grenier",
+                "isAnswer": false
+            },
+            {
+                "text": "Freddy Gladieux",
+                "isAnswer": false
+            },
+            {
+                "text": "Rémi Gaillard",
+                "isAnswer": false
+            }
+        ],
+        "asset": "85103045-260d-44a9-95ac-3934b58fb626"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/51f1643d-1534-4e1e-a9d7-397d9964a44c.webp",
+        "proposal": [
+            {
+                "text": "TheKairy78",
+                "isAnswer": true
+            },
+            {
+                "text": "Kameto",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Croce",
+                "isAnswer": false
+            },
+            {
+                "text": "Brawks",
+                "isAnswer": false
+            },
+            {
+                "text": "Amine (AmineMaTue)",
+                "isAnswer": false
+            },
+            {
+                "text": "Mynthos",
+                "isAnswer": false
+            }
+        ],
+        "asset": "51f1643d-1534-4e1e-a9d7-397d9964a44c"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/68f55d80-5fa9-4d52-8181-6c34225166a6.jpg",
+        "proposal": [
+            {
+                "text": "Thomas Deseur",
+                "isAnswer": true
+            },
+            {
+                "text": "Louis San",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            },
+            {
+                "text": "Yvan Casta",
+                "isAnswer": false
+            },
+            {
+                "text": "GMK",
+                "isAnswer": false
+            },
+            {
+                "text": "Mister V",
+                "isAnswer": false
+            }
+        ],
+        "asset": "68f55d80-5fa9-4d52-8181-6c34225166a6"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/e2e1982b-84a2-41b5-a595-247b0cf37587.jpg",
+        "proposal": [
+            {
+                "text": "Tibo Inshape",
+                "isAnswer": true
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": false
+            },
+            {
+                "text": "Sardoche",
+                "isAnswer": false
+            },
+            {
+                "text": "Colas BIM",
+                "isAnswer": false
+            },
+            {
+                "text": "LeBouseuh",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e2e1982b-84a2-41b5-a595-247b0cf37587"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/5eb0a186-de13-4660-927a-2afa8efb8132.jpg",
+        "proposal": [
+            {
+                "text": "Valentin (Le Monde à l'Envers)",
+                "isAnswer": true
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "AlphaCast",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            },
+            {
+                "text": "Maxime Biaggi",
+                "isAnswer": false
+            },
+            {
+                "text": "MATH",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5eb0a186-de13-4660-927a-2afa8efb8132"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/641f38e0-f8b9-4a99-9daf-d5ec2e875d0e.jpg",
+        "proposal": [
+            {
+                "text": "Valouzz",
+                "isAnswer": true
+            },
+            {
+                "text": "Fabien Olicard",
+                "isAnswer": false
+            },
+            {
+                "text": "LeChefOtaku",
+                "isAnswer": false
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "Yvan Casta",
+                "isAnswer": false
+            },
+            {
+                "text": "Fildrong",
+                "isAnswer": false
+            }
+        ],
+        "asset": "641f38e0-f8b9-4a99-9daf-d5ec2e875d0e"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/7f9df8e4-a87e-487d-865e-6e92096ce838.jpg",
+        "proposal": [
+            {
+                "text": "Xari",
+                "isAnswer": true
+            },
+            {
+                "text": "Amixem",
+                "isAnswer": false
+            },
+            {
+                "text": "Poisson Fécond",
+                "isAnswer": false
+            },
+            {
+                "text": "DrFeelGood",
+                "isAnswer": false
+            },
+            {
+                "text": "Gotaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Louis San",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7f9df8e4-a87e-487d-865e-6e92096ce838"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/129da4de-fca6-4b24-8f16-3fb0cfe8b3f8.jpg",
+        "proposal": [
+            {
+                "text": "Yvan Casta",
+                "isAnswer": true
+            },
+            {
+                "text": "Henry Tran",
+                "isAnswer": false
+            },
+            {
+                "text": "Byilhann",
+                "isAnswer": false
+            },
+            {
+                "text": "Mister V",
+                "isAnswer": false
+            },
+            {
+                "text": "HcTuan",
+                "isAnswer": false
+            },
+            {
+                "text": "Chris",
+                "isAnswer": false
+            }
+        ],
+        "asset": "129da4de-fca6-4b24-8f16-3fb0cfe8b3f8"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/8d76e5cf-6874-44f9-b4cc-1e03b8fc67c6.jpg",
+        "proposal": [
+            {
+                "text": "Zerator",
+                "isAnswer": true
+            },
+            {
+                "text": "Micode",
+                "isAnswer": false
+            },
+            {
+                "text": "Jimmy Labeeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Squeezie",
+                "isAnswer": false
+            },
+            {
+                "text": "Cyprien",
+                "isAnswer": false
+            },
+            {
+                "text": "Pierre Chabrier",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8d76e5cf-6874-44f9-b4cc-1e03b8fc67c6"
+    },
+    {
+        "sentence": "Quel est le nom de cet influenceur ?",
+        "type": "picture",
+        "picture": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/internet_celebrity/d695460b-1981-4685-980f-c20bf9801371.jpg",
+        "proposal": [
+            {
+                "text": "Étienne",
+                "isAnswer": true
+            },
+            {
+                "text": "Xari",
+                "isAnswer": false
+            },
+            {
+                "text": "Léo",
+                "isAnswer": false
+            },
+            {
+                "text": "Linca",
+                "isAnswer": false
+            },
+            {
+                "text": "FastGoodCuisine",
+                "isAnswer": false
+            },
+            {
+                "text": "Domingo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "d695460b-1981-4685-980f-c20bf9801371"
+    }
+]
