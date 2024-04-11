@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "uuid": "^9.0.1"
+    "@jimp/plugin-color": "^0.22.12",
+    "axios": "^1.6.8",
+    "jimp": "^0.22.12",
+    "uuid": "^9.0.1",
+    "webp-converter": "^2.3.3"
   }
 }
