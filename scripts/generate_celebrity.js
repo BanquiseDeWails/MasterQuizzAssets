@@ -2,21 +2,22 @@ const fs = require('fs');
 const { type } = require('os');
 const path = require('path');
 const { v4: uuidv4 } = require('uuid');
+const { convert_all_assets_to_webp } = require('./convert_all_assets_to_webp');
 
 let celebritiesThemes = [
-    { code: 'C', name: 'Cinéma', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'S', name: 'Sport', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'H', name: 'Humoriste', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'M', name: 'Musique', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'P', name: 'Politique', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'T', name: 'Télévision', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'I', name: 'Internet', male: {sentence: "", celebrities: [] }, female: {sentence: "", celebrities: []}},
-    { code: 'A', name: 'Autre', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'C', name: 'cinema', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'S', name: 'sport', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "", celebrities: []}},
+    { code: 'H', name: 'humoriste', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'M', name: 'music', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}, group: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'P', name: 'politic', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'T', name: 'television', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'I', name: 'internet', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
+    { code: 'O', name: 'other', male: {sentence: "Qui est-ce  ?", celebrities: [] }, female: {sentence: "Qui est-ce  ?", celebrities: []}},
 ];
 fs.readdirSync(path.join(__dirname, 'pictures/celebrity')).forEach(file => {
     let infos = file.split('_');
     let code = infos[0];
-    let genre = infos[1] == 'M' ? 'male' : 'female';
+    let genre = infos[1] == 'M' ? 'male' : (infos[1] == 'F' ? 'female' : 'group');
     let fileInfo = infos[2].split('.');
     let ext = fileInfo.pop(); // Remove extension
     let name = fileInfo.join('.');
@@ -32,13 +33,17 @@ fs.readdirSync(path.join(__dirname, 'pictures/celebrity')).forEach(file => {
     celebritiesThemes.find(c => c.code === code)[genre].celebrities.push(celebrity);
 });
 
-let questions = [];
 celebritiesThemes.forEach(theme => {
-    ['male', 'female'].forEach(genre => {
+    let questions = [];
+    fs.mkdirSync(path.join(__dirname, `../pictures/celebrity/${theme.name}/`), { recursive: true }, (err) => {
+        if (err) throw err;
+    });
+    ['male', 'female', 'group'].forEach(genre => {
+        if(!theme[genre]) return;
         let sentence = theme[genre].sentence;
         let celebrities = theme[genre].celebrities;
         celebrities.forEach(celebrity => {
-            fs.copyFileSync(path.join(__dirname, 'pictures/celebrity', celebrity.image), path.join(__dirname, `../pictures/celebrity/${celebrity.asset}.${celebrity.ext}`));
+            fs.copyFileSync(path.join(__dirname, 'pictures/celebrity', celebrity.image), path.join(__dirname, `../pictures/celebrity/${theme.name}/${celebrity.asset}.${celebrity.ext}`));
             let selectedCelebrities = [celebrity.asset];
             let proposals = [
                 {
@@ -48,21 +53,22 @@ celebritiesThemes.forEach(theme => {
             ]
     
             for (let i = 0; i < 5; i++) {
-                let proposalssss = celebrities.map(c => c.name).filter(c => !selectedCelebrities.includes(c));
+                let proposalssss = celebrities.filter(c => !selectedCelebrities.includes(c.asset));
                 let randomCelebrity = proposalssss[Math.floor(Math.random() * proposalssss.length)];
+                if(!randomCelebrity) break;
                 proposals.push(
                     {
-                        text: randomCelebrity,
+                        text: randomCelebrity.name,
                         isAnswer: false
                     }
                 );
-                selectedCelebrities.push(randomCelebrity);
+                selectedCelebrities.push(randomCelebrity.asset);
             }
     
             questions.push({
                 sentence: sentence,
                 type: "picture",
-                picture_url: `https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/${celebrity.asset}.${celebrity.ext}`,
+                picture_url: `https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/${theme.name}/${celebrity.asset}.webp`,
                 proposal: [
                     ...proposals
                 ],
@@ -70,5 +76,7 @@ celebritiesThemes.forEach(theme => {
             });
         });
     });
+    fs.writeFileSync(path.join(__dirname, `../questions/who_is_this/whos_this_${theme.name}_celebrity.json`), JSON.stringify(questions));
 });
-fs.writeFileSync(path.join(__dirname, '../questions/whos_this_celebrity.json'), JSON.stringify(questions));
+
+convert_all_assets_to_webp();

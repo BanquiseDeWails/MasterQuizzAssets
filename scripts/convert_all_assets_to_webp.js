@@ -34,4 +34,4 @@ function convert_all_assets_to_webp() {
     });
 }
 
-convert_all_assets_to_webp();
+exports.convert_all_assets_to_webp = convert_all_assets_to_webp;
