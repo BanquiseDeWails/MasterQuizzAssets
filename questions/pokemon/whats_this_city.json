@@ -1,0 +1,1314 @@
+[
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/34ba4e4f-20f5-45ba-ba1e-66d29c49bfe7.webp",
+        "proposal": [
+            {
+                "text": "Alforneira",
+                "isAnswer": true
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Cuchalaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            }
+        ],
+        "asset": "34ba4e4f-20f5-45ba-ba1e-66d29c49bfe7"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/b15f70ab-2469-40f8-a09e-2d645ac22fcd.webp",
+        "proposal": [
+            {
+                "text": "Bonaugure",
+                "isAnswer": true
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Brasswick",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Alforneira",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b15f70ab-2469-40f8-a09e-2d645ac22fcd"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/0d595f7f-9c37-44cc-86ff-223a27bc6d39.webp",
+        "proposal": [
+            {
+                "text": "Bonville",
+                "isAnswer": true
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Pinchoria",
+                "isAnswer": false
+            },
+            {
+                "text": "Rivamar",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaramanca",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0d595f7f-9c37-44cc-86ff-223a27bc6d39"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/2278cf61-afce-4c6b-9935-5bdce3a7c756.webp",
+        "proposal": [
+            {
+                "text": "Brasswick",
+                "isAnswer": true
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Sevaro",
+                "isAnswer": false
+            },
+            {
+                "text": "Corrifey",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2278cf61-afce-4c6b-9935-5bdce3a7c756"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/dba8f7f3-eaf3-44a7-a49b-9ea0cdb9fb5a.webp",
+        "proposal": [
+            {
+                "text": "Charbourg",
+                "isAnswer": true
+            },
+            {
+                "text": "Ludester",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            }
+        ],
+        "asset": "dba8f7f3-eaf3-44a7-a49b-9ea0cdb9fb5a"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/439593ab-98e1-4563-92a5-46370a50d65b.webp",
+        "proposal": [
+            {
+                "text": "Corrifey",
+                "isAnswer": true
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Old Chister",
+                "isAnswer": false
+            },
+            {
+                "text": "Brasswick",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Winscor",
+                "isAnswer": false
+            }
+        ],
+        "asset": "439593ab-98e1-4563-92a5-46370a50d65b"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/8dde61f9-29b1-4b22-82e5-0790b0dd4ab5.webp",
+        "proposal": [
+            {
+                "text": "Cuchalaga",
+                "isAnswer": true
+            },
+            {
+                "text": "Old Chister",
+                "isAnswer": false
+            },
+            {
+                "text": "Plato Real",
+                "isAnswer": false
+            },
+            {
+                "text": "Vestigion",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaderaude",
+                "isAnswer": false
+            },
+            {
+                "text": "Mesaledo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8dde61f9-29b1-4b22-82e5-0790b0dd4ab5"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/df144e3a-0a4b-4b7c-bc2e-6117b7b315e4.webp",
+        "proposal": [
+            {
+                "text": "Cuencia",
+                "isAnswer": true
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaderaude",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            }
+        ],
+        "asset": "df144e3a-0a4b-4b7c-bc2e-6117b7b315e4"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/f600b909-4e31-4831-b4d6-452f532bc557.webp",
+        "proposal": [
+            {
+                "text": "Célestia",
+                "isAnswer": true
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Brasswick",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            },
+            {
+                "text": "Cuencia",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f600b909-4e31-4831-b4d6-452f532bc557"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/49bdcd1e-fab3-46a9-abc9-c89856e8864a.webp",
+        "proposal": [
+            {
+                "text": "Floraville",
+                "isAnswer": true
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            },
+            {
+                "text": "Motorby",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            }
+        ],
+        "asset": "49bdcd1e-fab3-46a9-abc9-c89856e8864a"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/17392202-b335-4439-a7be-2169c38a36dd.webp",
+        "proposal": [
+            {
+                "text": "Frigao",
+                "isAnswer": true
+            },
+            {
+                "text": "Mesaledo",
+                "isAnswer": false
+            },
+            {
+                "text": "Old Chister",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaderaude",
+                "isAnswer": false
+            },
+            {
+                "text": "Littorella",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            }
+        ],
+        "asset": "17392202-b335-4439-a7be-2169c38a36dd"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c9edf5d7-aa34-4770-ba95-d5994ce3f57a.webp",
+        "proposal": [
+            {
+                "text": "Frimapic",
+                "isAnswer": true
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Floraville",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c9edf5d7-aa34-4770-ba95-d5994ce3f57a"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/60cbf704-d046-490c-9385-09b438954118.webp",
+        "proposal": [
+            {
+                "text": "Féli-Cité",
+                "isAnswer": true
+            },
+            {
+                "text": "Plato Real",
+                "isAnswer": false
+            },
+            {
+                "text": "Voilaroc",
+                "isAnswer": false
+            },
+            {
+                "text": "Joliberges",
+                "isAnswer": false
+            },
+            {
+                "text": "Célestia",
+                "isAnswer": false
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            }
+        ],
+        "asset": "60cbf704-d046-490c-9385-09b438954118"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/b39c8c02-866c-4afe-a79d-0140bbe04cd2.webp",
+        "proposal": [
+            {
+                "text": "Greenbury",
+                "isAnswer": true
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Motorby",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaderaude",
+                "isAnswer": false
+            },
+            {
+                "text": "Floraville",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b39c8c02-866c-4afe-a79d-0140bbe04cd2"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/55da1cde-7285-40ee-8d50-963b5b6e6750.webp",
+        "proposal": [
+            {
+                "text": "Jaderaude",
+                "isAnswer": true
+            },
+            {
+                "text": "Cuencia",
+                "isAnswer": false
+            },
+            {
+                "text": "Septemplion",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            }
+        ],
+        "asset": "55da1cde-7285-40ee-8d50-963b5b6e6750"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/11ba3b4e-25cd-4295-9c70-6044e71d856c.webp",
+        "proposal": [
+            {
+                "text": "Jaramanca",
+                "isAnswer": true
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Joliberges",
+                "isAnswer": false
+            }
+        ],
+        "asset": "11ba3b4e-25cd-4295-9c70-6044e71d856c"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/3f3f3222-7e38-43ed-a124-1da67bbff4dd.webp",
+        "proposal": [
+            {
+                "text": "Joliberges",
+                "isAnswer": true
+            },
+            {
+                "text": "Winscor",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3f3f3222-7e38-43ed-a124-1da67bbff4dd"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c2a6c0d2-1961-475a-9320-920540a83020.webp",
+        "proposal": [
+            {
+                "text": "Kickenham",
+                "isAnswer": true
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Joliberges",
+                "isAnswer": false
+            },
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c2a6c0d2-1961-475a-9320-920540a83020"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/8f6610ff-186f-4570-81e2-79dfcd102a87.webp",
+        "proposal": [
+            {
+                "text": "Levalendura",
+                "isAnswer": true
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8f6610ff-186f-4570-81e2-79dfcd102a87"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c938c13a-db9b-4f3c-9b79-db5b09bdbb7c.webp",
+        "proposal": [
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": true
+            },
+            {
+                "text": "Célestia",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            },
+            {
+                "text": "Floraville",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c938c13a-db9b-4f3c-9b79-db5b09bdbb7c"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/eefe27a5-f1ab-4e72-85ae-72d3dfc0a5f3.webp",
+        "proposal": [
+            {
+                "text": "Littorella",
+                "isAnswer": true
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Ludester",
+                "isAnswer": false
+            }
+        ],
+        "asset": "eefe27a5-f1ab-4e72-85ae-72d3dfc0a5f3"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c5a6c1d3-560a-4fa8-a15d-6f1f098d8107.webp",
+        "proposal": [
+            {
+                "text": "Ludester",
+                "isAnswer": true
+            },
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Old Chister",
+                "isAnswer": false
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c5a6c1d3-560a-4fa8-a15d-6f1f098d8107"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/27ccd6af-0ba7-4c43-bd3a-c37d897b478f.webp",
+        "proposal": [
+            {
+                "text": "Mesaledo",
+                "isAnswer": true
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Winscor",
+                "isAnswer": false
+            },
+            {
+                "text": "Corrifey",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            }
+        ],
+        "asset": "27ccd6af-0ba7-4c43-bd3a-c37d897b478f"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/fa70c69f-e9a7-40bf-a609-e31d5a4f86bc.webp",
+        "proposal": [
+            {
+                "text": "Mezclamora",
+                "isAnswer": true
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            },
+            {
+                "text": "Littorella",
+                "isAnswer": false
+            },
+            {
+                "text": "Corrifey",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            }
+        ],
+        "asset": "fa70c69f-e9a7-40bf-a609-e31d5a4f86bc"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/04c1da3c-b8df-4426-950c-2ac9b8769c49.webp",
+        "proposal": [
+            {
+                "text": "Motorby",
+                "isAnswer": true
+            },
+            {
+                "text": "Littorella",
+                "isAnswer": false
+            },
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaramanca",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            }
+        ],
+        "asset": "04c1da3c-b8df-4426-950c-2ac9b8769c49"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/da8703b2-2de7-45f4-bfbb-593523c955fe.webp",
+        "proposal": [
+            {
+                "text": "Old Chister",
+                "isAnswer": true
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Voilaroc",
+                "isAnswer": false
+            },
+            {
+                "text": "Floraville",
+                "isAnswer": false
+            },
+            {
+                "text": "Jaderaude",
+                "isAnswer": false
+            },
+            {
+                "text": "Winscor",
+                "isAnswer": false
+            }
+        ],
+        "asset": "da8703b2-2de7-45f4-bfbb-593523c955fe"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/28eb8ab6-87c8-4bc6-8628-ac83f1584416.webp",
+        "proposal": [
+            {
+                "text": "Paddoxton",
+                "isAnswer": true
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Joliberges",
+                "isAnswer": false
+            },
+            {
+                "text": "Septemplion",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Old Chister",
+                "isAnswer": false
+            }
+        ],
+        "asset": "28eb8ab6-87c8-4bc6-8628-ac83f1584416"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/3aeabaa2-9e9f-4d3d-91a6-d78cce66d061.webp",
+        "proposal": [
+            {
+                "text": "Pinchoria",
+                "isAnswer": true
+            },
+            {
+                "text": "Vestigion",
+                "isAnswer": false
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Cuchalaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Cuencia",
+                "isAnswer": false
+            },
+            {
+                "text": "Floraville",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3aeabaa2-9e9f-4d3d-91a6-d78cce66d061"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/f3e429c0-907e-4d43-8ed9-2617b2910e29.webp",
+        "proposal": [
+            {
+                "text": "Plato Real",
+                "isAnswer": true
+            },
+            {
+                "text": "Rivamar",
+                "isAnswer": false
+            },
+            {
+                "text": "Corrifey",
+                "isAnswer": false
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f3e429c0-907e-4d43-8ed9-2617b2910e29"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/da78dee1-f58d-42ad-a4de-d4e7a179d953.webp",
+        "proposal": [
+            {
+                "text": "Porto Marinada",
+                "isAnswer": true
+            },
+            {
+                "text": "Rivamar",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Mesaledo",
+                "isAnswer": false
+            },
+            {
+                "text": "Célestia",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            }
+        ],
+        "asset": "da78dee1-f58d-42ad-a4de-d4e7a179d953"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/cc9ee9a8-6bf2-4b5e-b54e-e025f4262a1d.webp",
+        "proposal": [
+            {
+                "text": "Rivamar",
+                "isAnswer": true
+            },
+            {
+                "text": "Célestia",
+                "isAnswer": false
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Charbourg",
+                "isAnswer": false
+            },
+            {
+                "text": "Littorella",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cc9ee9a8-6bf2-4b5e-b54e-e025f4262a1d"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/db760bd3-8c1e-4826-b7e7-b835c3c7fd56.webp",
+        "proposal": [
+            {
+                "text": "Rusti-Cité",
+                "isAnswer": true
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            }
+        ],
+        "asset": "db760bd3-8c1e-4826-b7e7-b835c3c7fd56"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/4a81862e-a901-43b1-bf7b-f020a31a8382.webp",
+        "proposal": [
+            {
+                "text": "Septemplion",
+                "isAnswer": true
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Alforneira",
+                "isAnswer": false
+            },
+            {
+                "text": "Rivamar",
+                "isAnswer": false
+            },
+            {
+                "text": "Joliberges",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4a81862e-a901-43b1-bf7b-f020a31a8382"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/f347d5ec-ee39-4d8b-a31a-582154c8536c.webp",
+        "proposal": [
+            {
+                "text": "Sevaro",
+                "isAnswer": true
+            },
+            {
+                "text": "Frigao",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonville",
+                "isAnswer": false
+            },
+            {
+                "text": "Winscor",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Corrifey",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f347d5ec-ee39-4d8b-a31a-582154c8536c"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c46f8832-add8-492d-9e52-01b88d87122e.webp",
+        "proposal": [
+            {
+                "text": "Skifford",
+                "isAnswer": true
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Frimapic",
+                "isAnswer": false
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            },
+            {
+                "text": "Mesaledo",
+                "isAnswer": false
+            },
+            {
+                "text": "Brasswick",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c46f8832-add8-492d-9e52-01b88d87122e"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/7a2b0be2-eb47-4619-8718-fa31864f2210.webp",
+        "proposal": [
+            {
+                "text": "Smashings",
+                "isAnswer": true
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Porto Marinada",
+                "isAnswer": false
+            },
+            {
+                "text": "Sevaro",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Pinchoria",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7a2b0be2-eb47-4619-8718-fa31864f2210"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/7efa696d-2fa1-468a-b1a4-4b3e5e6247eb.webp",
+        "proposal": [
+            {
+                "text": "Unionpolis",
+                "isAnswer": true
+            },
+            {
+                "text": "Rivamar",
+                "isAnswer": false
+            },
+            {
+                "text": "Cuchalaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Féli-Cité",
+                "isAnswer": false
+            },
+            {
+                "text": "Kickenham",
+                "isAnswer": false
+            },
+            {
+                "text": "Voilaroc",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7efa696d-2fa1-468a-b1a4-4b3e5e6247eb"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/26d24390-7fad-46a3-b2d1-35338b45ddae.webp",
+        "proposal": [
+            {
+                "text": "Verchamps",
+                "isAnswer": true
+            },
+            {
+                "text": "Alforneira",
+                "isAnswer": false
+            },
+            {
+                "text": "Ligue Pokemon",
+                "isAnswer": false
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            },
+            {
+                "text": "Mesaledo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "26d24390-7fad-46a3-b2d1-35338b45ddae"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/c133f681-39f0-4346-a47e-cd0219c39bed.webp",
+        "proposal": [
+            {
+                "text": "Vestigion",
+                "isAnswer": true
+            },
+            {
+                "text": "Mezclamora",
+                "isAnswer": false
+            },
+            {
+                "text": "Brasswick",
+                "isAnswer": false
+            },
+            {
+                "text": "Pinchoria",
+                "isAnswer": false
+            },
+            {
+                "text": "Verchamps",
+                "isAnswer": false
+            },
+            {
+                "text": "Motorby",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c133f681-39f0-4346-a47e-cd0219c39bed"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/76448e86-7444-4aa5-b651-82d3318f824f.webp",
+        "proposal": [
+            {
+                "text": "Voilaroc",
+                "isAnswer": true
+            },
+            {
+                "text": "Unionpolis",
+                "isAnswer": false
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            },
+            {
+                "text": "Skifford",
+                "isAnswer": false
+            },
+            {
+                "text": "Ludester",
+                "isAnswer": false
+            },
+            {
+                "text": "Greenbury",
+                "isAnswer": false
+            }
+        ],
+        "asset": "76448e86-7444-4aa5-b651-82d3318f824f"
+    },
+    {
+        "sentence": "Quelle est cette Ville ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/BanquiseDeWeils/MasterQuizz/master/pictures/pokemon/cities/0bb4e9b4-f36f-4873-9fcd-c3702e7d9afd.webp",
+        "proposal": [
+            {
+                "text": "Winscor",
+                "isAnswer": true
+            },
+            {
+                "text": "Bonaugure",
+                "isAnswer": false
+            },
+            {
+                "text": "Vestigion",
+                "isAnswer": false
+            },
+            {
+                "text": "Levalendura",
+                "isAnswer": false
+            },
+            {
+                "text": "Paddoxton",
+                "isAnswer": false
+            },
+            {
+                "text": "Smashings",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0bb4e9b4-f36f-4873-9fcd-c3702e7d9afd"
+    }
+]
