@@ -1,0 +1,2818 @@
+[
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ff94da1d-52e7-4999-9362-a705121ee137.webp",
+        "proposal": [
+            {
+                "text": "Alan Walker",
+                "isAnswer": true
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Nekfeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Drake",
+                "isAnswer": false
+            },
+            {
+                "text": "Renaud",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ff94da1d-52e7-4999-9362-a705121ee137"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ee2a6843-03a3-4099-9894-25fb82429398.webp",
+        "proposal": [
+            {
+                "text": "Alonzo",
+                "isAnswer": true
+            },
+            {
+                "text": "Lorenzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Nekfeu",
+                "isAnswer": false
+            },
+            {
+                "text": "Kendji Girac",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ee2a6843-03a3-4099-9894-25fb82429398"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/353f5217-a6e5-499c-92f0-783c8a11fd52.webp",
+        "proposal": [
+            {
+                "text": "Amir",
+                "isAnswer": true
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Drake",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            }
+        ],
+        "asset": "353f5217-a6e5-499c-92f0-783c8a11fd52"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/0a08bcaf-223a-43b6-bc54-bb0d046eca10.webp",
+        "proposal": [
+            {
+                "text": "Avicii",
+                "isAnswer": true
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0a08bcaf-223a-43b6-bc54-bb0d046eca10"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/33e49e6e-d3ce-4858-befd-239b3894058f.webp",
+        "proposal": [
+            {
+                "text": "Bekar",
+                "isAnswer": true
+            },
+            {
+                "text": "Niska",
+                "isAnswer": false
+            },
+            {
+                "text": "Dadju",
+                "isAnswer": false
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "33e49e6e-d3ce-4858-befd-239b3894058f"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/2388f273-8ea4-4509-b241-b509819ce18e.webp",
+        "proposal": [
+            {
+                "text": "Black M",
+                "isAnswer": true
+            },
+            {
+                "text": "Lujipeka",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2388f273-8ea4-4509-b241-b509819ce18e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/28ced640-1721-4d3e-aefb-cfcf4ab0a352.webp",
+        "proposal": [
+            {
+                "text": "Booba",
+                "isAnswer": true
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            }
+        ],
+        "asset": "28ced640-1721-4d3e-aefb-cfcf4ab0a352"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/81117a38-874d-41b5-8274-9019daad233a.webp",
+        "proposal": [
+            {
+                "text": "Christophe Maé",
+                "isAnswer": true
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Alan Walker",
+                "isAnswer": false
+            },
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": false
+            }
+        ],
+        "asset": "81117a38-874d-41b5-8274-9019daad233a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/dfcde2f9-68ca-4991-81b3-1bc52437f05c.webp",
+        "proposal": [
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": true
+            },
+            {
+                "text": "Dadju",
+                "isAnswer": false
+            },
+            {
+                "text": "Vianney",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            }
+        ],
+        "asset": "dfcde2f9-68ca-4991-81b3-1bc52437f05c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/35764f64-ebfc-4232-a779-37040ea30444.webp",
+        "proposal": [
+            {
+                "text": "Dadju",
+                "isAnswer": true
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "L'algerino",
+                "isAnswer": false
+            },
+            {
+                "text": "Black M",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Vianney",
+                "isAnswer": false
+            }
+        ],
+        "asset": "35764f64-ebfc-4232-a779-37040ea30444"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/a1458e21-521c-4b54-9c2e-30a8e0b1c89e.webp",
+        "proposal": [
+            {
+                "text": "David Guetta",
+                "isAnswer": true
+            },
+            {
+                "text": "Soprano",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a1458e21-521c-4b54-9c2e-30a8e0b1c89e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/20fc7533-a704-45c0-b411-f3cd760cfe16.webp",
+        "proposal": [
+            {
+                "text": "Drake",
+                "isAnswer": true
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            },
+            {
+                "text": "Amir",
+                "isAnswer": false
+            },
+            {
+                "text": "Marshmello",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": false
+            }
+        ],
+        "asset": "20fc7533-a704-45c0-b411-f3cd760cfe16"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/8be67f46-c3d7-432f-90bf-83d688e3c56c.webp",
+        "proposal": [
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": true
+            },
+            {
+                "text": "Niska",
+                "isAnswer": false
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Solveig",
+                "isAnswer": false
+            },
+            {
+                "text": "Black M",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8be67f46-c3d7-432f-90bf-83d688e3c56c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/685b4fa8-69d4-4d7c-8fb6-9059978b496e.webp",
+        "proposal": [
+            {
+                "text": "Florent Pagny",
+                "isAnswer": true
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Christophe Maé",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            }
+        ],
+        "asset": "685b4fa8-69d4-4d7c-8fb6-9059978b496e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/17866caf-0c4f-42ad-9b63-375430474c04.webp",
+        "proposal": [
+            {
+                "text": "Gazo",
+                "isAnswer": true
+            },
+            {
+                "text": "Lacrim",
+                "isAnswer": false
+            },
+            {
+                "text": "Lujipeka",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            }
+        ],
+        "asset": "17866caf-0c4f-42ad-9b63-375430474c04"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/355ce903-8186-459c-8714-696a4b79ec76.webp",
+        "proposal": [
+            {
+                "text": "Gims",
+                "isAnswer": true
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            },
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            }
+        ],
+        "asset": "355ce903-8186-459c-8714-696a4b79ec76"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/4cc1f904-6519-455a-88eb-2b3bd49f660c.webp",
+        "proposal": [
+            {
+                "text": "Gringe",
+                "isAnswer": true
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Booba",
+                "isAnswer": false
+            },
+            {
+                "text": "Lacrim",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4cc1f904-6519-455a-88eb-2b3bd49f660c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/7492ef73-5a4f-40d8-a159-f4dc6abacc14.webp",
+        "proposal": [
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": true
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Booba",
+                "isAnswer": false
+            },
+            {
+                "text": "Soprano",
+                "isAnswer": false
+            },
+            {
+                "text": "Sean Paul",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            }
+        ],
+        "asset": "7492ef73-5a4f-40d8-a159-f4dc6abacc14"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/75879f17-93b4-45f2-baa3-478622be5e55.webp",
+        "proposal": [
+            {
+                "text": "Jean-Jacques Goldman",
+                "isAnswer": true
+            },
+            {
+                "text": "Lorenzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Ninho",
+                "isAnswer": false
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Amir",
+                "isAnswer": false
+            },
+            {
+                "text": "Kendji Girac",
+                "isAnswer": false
+            }
+        ],
+        "asset": "75879f17-93b4-45f2-baa3-478622be5e55"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/a409fee3-9cb8-45f8-b193-b61ddaa688ca.webp",
+        "proposal": [
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": true
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Drake",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a409fee3-9cb8-45f8-b193-b61ddaa688ca"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/bd590514-cdac-4fc2-9470-0a686b6dacb9.webp",
+        "proposal": [
+            {
+                "text": "Jul",
+                "isAnswer": true
+            },
+            {
+                "text": "Christophe Maé",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "Alan Walker",
+                "isAnswer": false
+            }
+        ],
+        "asset": "bd590514-cdac-4fc2-9470-0a686b6dacb9"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/3bb12c6e-4f1d-4c58-aa03-c2a2223545e8.webp",
+        "proposal": [
+            {
+                "text": "Julien Doré",
+                "isAnswer": true
+            },
+            {
+                "text": "Vianney",
+                "isAnswer": false
+            },
+            {
+                "text": "Christophe Maé",
+                "isAnswer": false
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3bb12c6e-4f1d-4c58-aa03-c2a2223545e8"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/3a1aa6ec-08f5-4299-a43e-91eab5fd467a.webp",
+        "proposal": [
+            {
+                "text": "Justin Bieber",
+                "isAnswer": true
+            },
+            {
+                "text": "Avicii",
+                "isAnswer": false
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Lacrim",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3a1aa6ec-08f5-4299-a43e-91eab5fd467a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ba3bc6cc-280f-4f2a-b042-24730891c62b.webp",
+        "proposal": [
+            {
+                "text": "Kaaris",
+                "isAnswer": true
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Niska",
+                "isAnswer": false
+            },
+            {
+                "text": "Florent Pagny",
+                "isAnswer": false
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ba3bc6cc-280f-4f2a-b042-24730891c62b"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/60c28a16-5144-4e24-a538-86d197c54b67.webp",
+        "proposal": [
+            {
+                "text": "Kendji Girac",
+                "isAnswer": true
+            },
+            {
+                "text": "Florent Pagny",
+                "isAnswer": false
+            },
+            {
+                "text": "Julien Doré",
+                "isAnswer": false
+            },
+            {
+                "text": "The Weeknd",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            },
+            {
+                "text": "Post Malone",
+                "isAnswer": false
+            }
+        ],
+        "asset": "60c28a16-5144-4e24-a538-86d197c54b67"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/3f6dd638-1746-4259-b2bf-d0c180fe4b9a.webp",
+        "proposal": [
+            {
+                "text": "KIK",
+                "isAnswer": true
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            },
+            {
+                "text": "Drake",
+                "isAnswer": false
+            },
+            {
+                "text": "Ninho",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Solveig",
+                "isAnswer": false
+            },
+            {
+                "text": "The Weeknd",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3f6dd638-1746-4259-b2bf-d0c180fe4b9a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/db6e511c-f3d6-4c1b-9fe6-7b3f200f2b40.webp",
+        "proposal": [
+            {
+                "text": "L'algerino",
+                "isAnswer": true
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "db6e511c-f3d6-4c1b-9fe6-7b3f200f2b40"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/062f450a-a17b-4422-8c26-3c42473cee1a.webp",
+        "proposal": [
+            {
+                "text": "Lacrim",
+                "isAnswer": true
+            },
+            {
+                "text": "The Weeknd",
+                "isAnswer": false
+            },
+            {
+                "text": "Lorenzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Soprano",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            },
+            {
+                "text": "Booba",
+                "isAnswer": false
+            }
+        ],
+        "asset": "062f450a-a17b-4422-8c26-3c42473cee1a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5d879ca1-8c96-4a87-89d2-2e8dd880b468.webp",
+        "proposal": [
+            {
+                "text": "Lomepal",
+                "isAnswer": true
+            },
+            {
+                "text": "Alan Walker",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            },
+            {
+                "text": "Avicii",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            },
+            {
+                "text": "L'algerino",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5d879ca1-8c96-4a87-89d2-2e8dd880b468"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/b69f6e52-a61e-4d46-93fe-9438baae2a8a.webp",
+        "proposal": [
+            {
+                "text": "Lorenzo",
+                "isAnswer": true
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Orelsan",
+                "isAnswer": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Florent Pagny",
+                "isAnswer": false
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b69f6e52-a61e-4d46-93fe-9438baae2a8a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/122f901f-6b03-4997-b54c-30f4e4872ced.webp",
+        "proposal": [
+            {
+                "text": "Lujipeka",
+                "isAnswer": true
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            },
+            {
+                "text": "Booba",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Solveig",
+                "isAnswer": false
+            }
+        ],
+        "asset": "122f901f-6b03-4997-b54c-30f4e4872ced"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/38a09f17-b2df-4b6c-a0ab-b160c4b2e7ec.webp",
+        "proposal": [
+            {
+                "text": "Marshmello",
+                "isAnswer": true
+            },
+            {
+                "text": "Renaud",
+                "isAnswer": false
+            },
+            {
+                "text": "Black M",
+                "isAnswer": false
+            },
+            {
+                "text": "Michael Jackson",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            }
+        ],
+        "asset": "38a09f17-b2df-4b6c-a0ab-b160c4b2e7ec"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/8a1897c0-9f81-423d-9149-ea80027112c9.webp",
+        "proposal": [
+            {
+                "text": "Martin Garrix",
+                "isAnswer": true
+            },
+            {
+                "text": "Avicii",
+                "isAnswer": false
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8a1897c0-9f81-423d-9149-ea80027112c9"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/75b57ef4-71a6-4a64-9ae6-7ed226a7d99c.webp",
+        "proposal": [
+            {
+                "text": "Martin Solveig",
+                "isAnswer": true
+            },
+            {
+                "text": "Nekfeu",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            }
+        ],
+        "asset": "75b57ef4-71a6-4a64-9ae6-7ed226a7d99c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/c8969b50-c4cb-4bca-9505-9ad6c3015cc1.webp",
+        "proposal": [
+            {
+                "text": "Matt Pokora",
+                "isAnswer": true
+            },
+            {
+                "text": "Dadju",
+                "isAnswer": false
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            },
+            {
+                "text": "Marshmello",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Lujipeka",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c8969b50-c4cb-4bca-9505-9ad6c3015cc1"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/9c560398-cd85-45cb-8d78-30c06f8bb716.webp",
+        "proposal": [
+            {
+                "text": "Michael Jackson",
+                "isAnswer": true
+            },
+            {
+                "text": "Stromae",
+                "isAnswer": false
+            },
+            {
+                "text": "Vianney",
+                "isAnswer": false
+            },
+            {
+                "text": "David Guetta",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Gringe",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9c560398-cd85-45cb-8d78-30c06f8bb716"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/0913f524-1e9c-4376-9399-913a839f8909.webp",
+        "proposal": [
+            {
+                "text": "Mika",
+                "isAnswer": true
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            },
+            {
+                "text": "Soolking",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "David Guetta",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0913f524-1e9c-4376-9399-913a839f8909"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/500523cb-4dd7-4f79-bb06-0a556e75871f.webp",
+        "proposal": [
+            {
+                "text": "Naps",
+                "isAnswer": true
+            },
+            {
+                "text": "L'algerino",
+                "isAnswer": false
+            },
+            {
+                "text": "Johnny Hallyday",
+                "isAnswer": false
+            },
+            {
+                "text": "Avicii",
+                "isAnswer": false
+            },
+            {
+                "text": "Lacrim",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "500523cb-4dd7-4f79-bb06-0a556e75871f"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/330786df-1bd0-471d-9b33-aa2f11aa4ffe.webp",
+        "proposal": [
+            {
+                "text": "Nekfeu",
+                "isAnswer": true
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Florent Pagny",
+                "isAnswer": false
+            },
+            {
+                "text": "SCH",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            }
+        ],
+        "asset": "330786df-1bd0-471d-9b33-aa2f11aa4ffe"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5f009a36-6ca9-4636-9ef2-218e187518a4.webp",
+        "proposal": [
+            {
+                "text": "Ninho",
+                "isAnswer": true
+            },
+            {
+                "text": "Lorenzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Booba",
+                "isAnswer": false
+            },
+            {
+                "text": "Mika",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Matt Pokora",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5f009a36-6ca9-4636-9ef2-218e187518a4"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/8dc69644-2760-47e8-a64a-7393eebda773.webp",
+        "proposal": [
+            {
+                "text": "Niska",
+                "isAnswer": true
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            },
+            {
+                "text": "Ninho",
+                "isAnswer": false
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Florent Pagny",
+                "isAnswer": false
+            },
+            {
+                "text": "Julien Doré",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8dc69644-2760-47e8-a64a-7393eebda773"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/959d097e-dbd3-45de-a66c-45b9088af39c.webp",
+        "proposal": [
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": true
+            },
+            {
+                "text": "Christophe Maé",
+                "isAnswer": false
+            },
+            {
+                "text": "Alan Walker",
+                "isAnswer": false
+            },
+            {
+                "text": "Soprano",
+                "isAnswer": false
+            },
+            {
+                "text": "L'algerino",
+                "isAnswer": false
+            },
+            {
+                "text": "David Guetta",
+                "isAnswer": false
+            }
+        ],
+        "asset": "959d097e-dbd3-45de-a66c-45b9088af39c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/b19e942e-269b-4c4e-b95c-829623b6e3df.webp",
+        "proposal": [
+            {
+                "text": "Orelsan",
+                "isAnswer": true
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "David Guetta",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b19e942e-269b-4c4e-b95c-829623b6e3df"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/deaf3434-2786-426e-9d6f-517958877317.webp",
+        "proposal": [
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": true
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Marshmello",
+                "isAnswer": false
+            },
+            {
+                "text": "Justin Bieber",
+                "isAnswer": false
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            }
+        ],
+        "asset": "deaf3434-2786-426e-9d6f-517958877317"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/8d2c91d9-b4dd-41ad-ac3c-3f0bd004044e.webp",
+        "proposal": [
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": true
+            },
+            {
+                "text": "Claudio Capéo",
+                "isAnswer": false
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "David Guetta",
+                "isAnswer": false
+            },
+            {
+                "text": "Black M",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8d2c91d9-b4dd-41ad-ac3c-3f0bd004044e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/82efbe28-8464-4ea6-b43b-f080d9769721.webp",
+        "proposal": [
+            {
+                "text": "Post Malone",
+                "isAnswer": true
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "82efbe28-8464-4ea6-b43b-f080d9769721"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/9dcac16e-3958-402c-90fe-f5a7680c5c06.webp",
+        "proposal": [
+            {
+                "text": "Renaud",
+                "isAnswer": true
+            },
+            {
+                "text": "Patrick Bruel",
+                "isAnswer": false
+            },
+            {
+                "text": "Gringe",
+                "isAnswer": false
+            },
+            {
+                "text": "Vianney",
+                "isAnswer": false
+            },
+            {
+                "text": "Soprano",
+                "isAnswer": false
+            },
+            {
+                "text": "Amir",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9dcac16e-3958-402c-90fe-f5a7680c5c06"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/adcd9386-02e1-4f3f-9b29-12c51ed3ebe2.webp",
+        "proposal": [
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": true
+            },
+            {
+                "text": "Niska",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            },
+            {
+                "text": "L'algerino",
+                "isAnswer": false
+            },
+            {
+                "text": "Ninho",
+                "isAnswer": false
+            },
+            {
+                "text": "Avicii",
+                "isAnswer": false
+            }
+        ],
+        "asset": "adcd9386-02e1-4f3f-9b29-12c51ed3ebe2"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5a05ecf1-835e-491c-a805-553eaa0324f9.webp",
+        "proposal": [
+            {
+                "text": "SCH",
+                "isAnswer": true
+            },
+            {
+                "text": "Gazo",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            },
+            {
+                "text": "Ed Sheeran",
+                "isAnswer": false
+            },
+            {
+                "text": "Martin Garrix",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5a05ecf1-835e-491c-a805-553eaa0324f9"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/00aafc9d-aaf8-48ce-a69f-9f1524e225b5.webp",
+        "proposal": [
+            {
+                "text": "Sean Paul",
+                "isAnswer": true
+            },
+            {
+                "text": "Lujipeka",
+                "isAnswer": false
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Dadju",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            }
+        ],
+        "asset": "00aafc9d-aaf8-48ce-a69f-9f1524e225b5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/99b69d75-d235-4afe-ad0a-519ee5aebbe9.webp",
+        "proposal": [
+            {
+                "text": "Slimane",
+                "isAnswer": true
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            },
+            {
+                "text": "Julien Doré",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Gims",
+                "isAnswer": false
+            },
+            {
+                "text": "Sean Paul",
+                "isAnswer": false
+            }
+        ],
+        "asset": "99b69d75-d235-4afe-ad0a-519ee5aebbe9"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/180a818c-b20a-4155-8033-91becf0173ff.webp",
+        "proposal": [
+            {
+                "text": "Soolking",
+                "isAnswer": true
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Renaud",
+                "isAnswer": false
+            },
+            {
+                "text": "Roméo Elvis",
+                "isAnswer": false
+            },
+            {
+                "text": "Lomepal",
+                "isAnswer": false
+            }
+        ],
+        "asset": "180a818c-b20a-4155-8033-91becf0173ff"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/cbc0babe-04c3-4602-8337-44013aa4191c.webp",
+        "proposal": [
+            {
+                "text": "Soprano",
+                "isAnswer": true
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Alonzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Patrick Fiori",
+                "isAnswer": false
+            },
+            {
+                "text": "Hugues Aufray",
+                "isAnswer": false
+            },
+            {
+                "text": "Jul",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cbc0babe-04c3-4602-8337-44013aa4191c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/fa9255e5-56d4-4697-a42e-6abfdc80f5e4.webp",
+        "proposal": [
+            {
+                "text": "Stromae",
+                "isAnswer": true
+            },
+            {
+                "text": "Kaaris",
+                "isAnswer": false
+            },
+            {
+                "text": "Lacrim",
+                "isAnswer": false
+            },
+            {
+                "text": "Bekar",
+                "isAnswer": false
+            },
+            {
+                "text": "Alan Walker",
+                "isAnswer": false
+            },
+            {
+                "text": "KIK",
+                "isAnswer": false
+            }
+        ],
+        "asset": "fa9255e5-56d4-4697-a42e-6abfdc80f5e4"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/c65f9f81-27ea-470b-967b-47a72c2061a1.webp",
+        "proposal": [
+            {
+                "text": "The Weeknd",
+                "isAnswer": true
+            },
+            {
+                "text": "Lorenzo",
+                "isAnswer": false
+            },
+            {
+                "text": "Slimane",
+                "isAnswer": false
+            },
+            {
+                "text": "Post Malone",
+                "isAnswer": false
+            },
+            {
+                "text": "Dadju",
+                "isAnswer": false
+            },
+            {
+                "text": "Nuit Incolore",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c65f9f81-27ea-470b-967b-47a72c2061a1"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ff693ae7-d97b-4fe7-aa75-2ebf265059c3.webp",
+        "proposal": [
+            {
+                "text": "Vianney",
+                "isAnswer": true
+            },
+            {
+                "text": "Orelsan",
+                "isAnswer": false
+            },
+            {
+                "text": "Gringe",
+                "isAnswer": false
+            },
+            {
+                "text": "Drake",
+                "isAnswer": false
+            },
+            {
+                "text": "Naps",
+                "isAnswer": false
+            },
+            {
+                "text": "Amir",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ff693ae7-d97b-4fe7-aa75-2ebf265059c3"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/8eae7070-2ab3-4ec6-b043-1d0e5906e1a1.webp",
+        "proposal": [
+            {
+                "text": "Adele",
+                "isAnswer": true
+            },
+            {
+                "text": "Hoshi",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Lady Gaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Katy Perry",
+                "isAnswer": false
+            },
+            {
+                "text": "Ava Max",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8eae7070-2ab3-4ec6-b043-1d0e5906e1a1"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/35eccbd1-00c7-4046-bc05-3d95953eb70b.webp",
+        "proposal": [
+            {
+                "text": "Angèle",
+                "isAnswer": true
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Billie Eilish",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Lady Gaga",
+                "isAnswer": false
+            }
+        ],
+        "asset": "35eccbd1-00c7-4046-bc05-3d95953eb70b"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/e2e4fbd1-040b-4a64-985e-c95e35913325.webp",
+        "proposal": [
+            {
+                "text": "Ariana Grande",
+                "isAnswer": true
+            },
+            {
+                "text": "Shakira",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e2e4fbd1-040b-4a64-985e-c95e35913325"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/c540178c-08d2-4476-b712-3f17cf5a5ac5.webp",
+        "proposal": [
+            {
+                "text": "Ava Max",
+                "isAnswer": true
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Rihanna",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c540178c-08d2-4476-b712-3f17cf5a5ac5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5915a460-624b-4eee-8fe3-f6e9bad78016.webp",
+        "proposal": [
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": true
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Shakira",
+                "isAnswer": false
+            },
+            {
+                "text": "Zara Larsson",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5915a460-624b-4eee-8fe3-f6e9bad78016"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/91d20cfb-d8cf-43e8-93ff-856170d1d4f9.webp",
+        "proposal": [
+            {
+                "text": "Bianca Costa",
+                "isAnswer": true
+            },
+            {
+                "text": "Billie Eilish",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            }
+        ],
+        "asset": "91d20cfb-d8cf-43e8-93ff-856170d1d4f9"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/cf3e3324-5e08-4f36-a57f-9a1b8b1e4e59.webp",
+        "proposal": [
+            {
+                "text": "Billie Eilish",
+                "isAnswer": true
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Selena Gomez",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cf3e3324-5e08-4f36-a57f-9a1b8b1e4e59"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/652924e0-ad05-4885-8ac1-12061cf0f887.webp",
+        "proposal": [
+            {
+                "text": "Britney Spears",
+                "isAnswer": true
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            },
+            {
+                "text": "Rihanna",
+                "isAnswer": false
+            },
+            {
+                "text": "Lady Gaga",
+                "isAnswer": false
+            },
+            {
+                "text": "Selena Gomez",
+                "isAnswer": false
+            },
+            {
+                "text": "Hoshi",
+                "isAnswer": false
+            }
+        ],
+        "asset": "652924e0-ad05-4885-8ac1-12061cf0f887"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ded33a63-d6b9-42ac-aec8-cf69cd2ce59a.webp",
+        "proposal": [
+            {
+                "text": "Clara Luciani",
+                "isAnswer": true
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ded33a63-d6b9-42ac-aec8-cf69cd2ce59a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/1d1afccc-f063-4861-ab94-be183de5582d.webp",
+        "proposal": [
+            {
+                "text": "Dua Lipa",
+                "isAnswer": true
+            },
+            {
+                "text": "Angèle",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            },
+            {
+                "text": "Selena Gomez",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1d1afccc-f063-4861-ab94-be183de5582d"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/2a00dcfd-72fe-453d-811f-a8c9728aa84c.webp",
+        "proposal": [
+            {
+                "text": "Hoshi",
+                "isAnswer": true
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            },
+            {
+                "text": "Rihanna",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            }
+        ],
+        "asset": "2a00dcfd-72fe-453d-811f-a8c9728aa84c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ec751ab6-12ce-4ad8-b0fc-dfb4f47494d4.webp",
+        "proposal": [
+            {
+                "text": "Katy Perry",
+                "isAnswer": true
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            },
+            {
+                "text": "Angèle",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Britney Spears",
+                "isAnswer": false
+            },
+            {
+                "text": "Ariana Grande",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ec751ab6-12ce-4ad8-b0fc-dfb4f47494d4"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/bdfe2a8a-8ac6-4711-9bf1-48b9ad707403.webp",
+        "proposal": [
+            {
+                "text": "Lady Gaga",
+                "isAnswer": true
+            },
+            {
+                "text": "Katy Perry",
+                "isAnswer": false
+            },
+            {
+                "text": "Billie Eilish",
+                "isAnswer": false
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Bianca Costa",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            }
+        ],
+        "asset": "bdfe2a8a-8ac6-4711-9bf1-48b9ad707403"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/372cd3d2-b515-4a9a-9ed8-a71c43f1edc5.webp",
+        "proposal": [
+            {
+                "text": "Lara Fabian",
+                "isAnswer": true
+            },
+            {
+                "text": "Shakira",
+                "isAnswer": false
+            },
+            {
+                "text": "Katy Perry",
+                "isAnswer": false
+            },
+            {
+                "text": "Shy'm",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            }
+        ],
+        "asset": "372cd3d2-b515-4a9a-9ed8-a71c43f1edc5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/eb15745d-1010-4b02-b57a-472ddb5637e5.webp",
+        "proposal": [
+            {
+                "text": "Louane",
+                "isAnswer": true
+            },
+            {
+                "text": "Zara Larsson",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Katy Perry",
+                "isAnswer": false
+            },
+            {
+                "text": "Angèle",
+                "isAnswer": false
+            },
+            {
+                "text": "Britney Spears",
+                "isAnswer": false
+            }
+        ],
+        "asset": "eb15745d-1010-4b02-b57a-472ddb5637e5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/124aeb81-a55a-42c2-a3fd-a3d47dad6711.webp",
+        "proposal": [
+            {
+                "text": "Rihanna",
+                "isAnswer": true
+            },
+            {
+                "text": "Britney Spears",
+                "isAnswer": false
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Shakira",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            }
+        ],
+        "asset": "124aeb81-a55a-42c2-a3fd-a3d47dad6711"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/39392f5a-d7e4-40c3-b591-455c77152945.webp",
+        "proposal": [
+            {
+                "text": "Selena Gomez",
+                "isAnswer": true
+            },
+            {
+                "text": "Ava Max",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            },
+            {
+                "text": "Billie Eilish",
+                "isAnswer": false
+            }
+        ],
+        "asset": "39392f5a-d7e4-40c3-b591-455c77152945"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/20ff4d78-9508-4e81-bf25-7ef02dc3f44a.webp",
+        "proposal": [
+            {
+                "text": "Shakira",
+                "isAnswer": true
+            },
+            {
+                "text": "Britney Spears",
+                "isAnswer": false
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Vitaa",
+                "isAnswer": false
+            },
+            {
+                "text": "Hoshi",
+                "isAnswer": false
+            },
+            {
+                "text": "Ava Max",
+                "isAnswer": false
+            }
+        ],
+        "asset": "20ff4d78-9508-4e81-bf25-7ef02dc3f44a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5a84434e-ef7e-4885-9d4f-dfe911fce706.webp",
+        "proposal": [
+            {
+                "text": "Shy'm",
+                "isAnswer": true
+            },
+            {
+                "text": "Angèle",
+                "isAnswer": false
+            },
+            {
+                "text": "Adele",
+                "isAnswer": false
+            },
+            {
+                "text": "Katy Perry",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Ava Max",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5a84434e-ef7e-4885-9d4f-dfe911fce706"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/ad8386ae-65d9-491a-8b30-8be2f895247e.webp",
+        "proposal": [
+            {
+                "text": "Taylor Swift",
+                "isAnswer": true
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            },
+            {
+                "text": "Angèle",
+                "isAnswer": false
+            },
+            {
+                "text": "Ariana Grande",
+                "isAnswer": false
+            },
+            {
+                "text": "Aya Nakamura",
+                "isAnswer": false
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ad8386ae-65d9-491a-8b30-8be2f895247e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/76382e8f-3b40-4377-833e-c5ce764d302e.webp",
+        "proposal": [
+            {
+                "text": "Vitaa",
+                "isAnswer": true
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Bianca Costa",
+                "isAnswer": false
+            },
+            {
+                "text": "Zazie",
+                "isAnswer": false
+            },
+            {
+                "text": "Shy'm",
+                "isAnswer": false
+            },
+            {
+                "text": "Zara Larsson",
+                "isAnswer": false
+            }
+        ],
+        "asset": "76382e8f-3b40-4377-833e-c5ce764d302e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/709deb0f-29ce-45f1-b928-69855e97878a.webp",
+        "proposal": [
+            {
+                "text": "Zara Larsson",
+                "isAnswer": true
+            },
+            {
+                "text": "Shy'm",
+                "isAnswer": false
+            },
+            {
+                "text": "Louane",
+                "isAnswer": false
+            },
+            {
+                "text": "Bianca Costa",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Dua Lipa",
+                "isAnswer": false
+            }
+        ],
+        "asset": "709deb0f-29ce-45f1-b928-69855e97878a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/e9130142-f664-4ee5-a5c7-a14c1df1cd1a.webp",
+        "proposal": [
+            {
+                "text": "Zazie",
+                "isAnswer": true
+            },
+            {
+                "text": "Lara Fabian",
+                "isAnswer": false
+            },
+            {
+                "text": "Clara Luciani",
+                "isAnswer": false
+            },
+            {
+                "text": "Shy'm",
+                "isAnswer": false
+            },
+            {
+                "text": "Taylor Swift",
+                "isAnswer": false
+            },
+            {
+                "text": "Zara Larsson",
+                "isAnswer": false
+            }
+        ],
+        "asset": "e9130142-f664-4ee5-a5c7-a14c1df1cd1a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/fbf301c1-face-4f5d-bba4-9211e210dba0.webp",
+        "proposal": [
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": true
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            },
+            {
+                "text": "PNL",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            },
+            {
+                "text": "Trois Cafés Gourmands",
+                "isAnswer": false
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            }
+        ],
+        "asset": "fbf301c1-face-4f5d-bba4-9211e210dba0"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/de80d2eb-c6bc-451d-a5a9-1188a836edda.webp",
+        "proposal": [
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": true
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            },
+            {
+                "text": "Daft Punk",
+                "isAnswer": false
+            },
+            {
+                "text": "Trois Cafés Gourmands",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            },
+            {
+                "text": "PNL",
+                "isAnswer": false
+            }
+        ],
+        "asset": "de80d2eb-c6bc-451d-a5a9-1188a836edda"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/6e024000-35d4-45d8-8657-819fc50c4e19.webp",
+        "proposal": [
+            {
+                "text": "Daft Punk",
+                "isAnswer": true
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            },
+            {
+                "text": "Queen",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            }
+        ],
+        "asset": "6e024000-35d4-45d8-8657-819fc50c4e19"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/5bb2e77a-653d-43ce-b172-2d6f78972091.webp",
+        "proposal": [
+            {
+                "text": "L.E.J",
+                "isAnswer": true
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            },
+            {
+                "text": "Trois Cafés Gourmands",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "Daft Punk",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5bb2e77a-653d-43ce-b172-2d6f78972091"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/c6cb18b8-021e-490e-a335-b9a89007f88c.webp",
+        "proposal": [
+            {
+                "text": "PNL",
+                "isAnswer": true
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            },
+            {
+                "text": "L.E.J",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "Daft Punk",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "c6cb18b8-021e-490e-a335-b9a89007f88c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/f0ecbe62-6921-436f-8cff-10e72f68e5b4.webp",
+        "proposal": [
+            {
+                "text": "Queen",
+                "isAnswer": true
+            },
+            {
+                "text": "Daft Punk",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            },
+            {
+                "text": "L.E.J",
+                "isAnswer": false
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            }
+        ],
+        "asset": "f0ecbe62-6921-436f-8cff-10e72f68e5b4"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/524815c8-c0ef-4e08-a4c0-30eadf092b64.webp",
+        "proposal": [
+            {
+                "text": "The Beatles",
+                "isAnswer": true
+            },
+            {
+                "text": "Queen",
+                "isAnswer": false
+            },
+            {
+                "text": "L.E.J",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            },
+            {
+                "text": "Tryo",
+                "isAnswer": false
+            }
+        ],
+        "asset": "524815c8-c0ef-4e08-a4c0-30eadf092b64"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/dc79199e-da49-4e1f-811f-e40e72d3c754.webp",
+        "proposal": [
+            {
+                "text": "Trois Cafés Gourmands",
+                "isAnswer": true
+            },
+            {
+                "text": "Queen",
+                "isAnswer": false
+            },
+            {
+                "text": "PNL",
+                "isAnswer": false
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            },
+            {
+                "text": "L.E.J",
+                "isAnswer": false
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            }
+        ],
+        "asset": "dc79199e-da49-4e1f-811f-e40e72d3c754"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/music/d57520a2-3bed-43d3-871a-f6a3b10b46fb.webp",
+        "proposal": [
+            {
+                "text": "Tryo",
+                "isAnswer": true
+            },
+            {
+                "text": "Bigflo et Oli",
+                "isAnswer": false
+            },
+            {
+                "text": "The Beatles",
+                "isAnswer": false
+            },
+            {
+                "text": "L.E.J",
+                "isAnswer": false
+            },
+            {
+                "text": "Boulevard des Aires",
+                "isAnswer": false
+            },
+            {
+                "text": "Trois Cafés Gourmands",
+                "isAnswer": false
+            }
+        ],
+        "asset": "d57520a2-3bed-43d3-871a-f6a3b10b46fb"
+    }
+]

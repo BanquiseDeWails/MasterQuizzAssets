@@ -1,0 +1,738 @@
+[
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/0a7fe4bd-7d58-476f-87f5-18f746c09538.webp",
+        "proposal": [
+            {
+                "text": "Abrakam Lincoln",
+                "isAnswer": true
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "Vladimir Poutine",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Joe Biden",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            }
+        ],
+        "asset": "0a7fe4bd-7d58-476f-87f5-18f746c09538"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/53c96733-25a0-42e2-ade7-caf0151886aa.webp",
+        "proposal": [
+            {
+                "text": "Angela Merkel",
+                "isAnswer": true
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            }
+        ],
+        "asset": "53c96733-25a0-42e2-ade7-caf0151886aa"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/b683f49a-17eb-4d2e-95f2-e41e4ae6706c.webp",
+        "proposal": [
+            {
+                "text": "Barack Obama",
+                "isAnswer": true
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            },
+            {
+                "text": "Angela Merkel",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "Valéry Giscard d'Estaing",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b683f49a-17eb-4d2e-95f2-e41e4ae6706c"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/d509f5dd-aaf6-47cf-a8bb-a7a8e434255f.webp",
+        "proposal": [
+            {
+                "text": "Boris Johnson",
+                "isAnswer": true
+            },
+            {
+                "text": "Vladimir Poutine",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "d509f5dd-aaf6-47cf-a8bb-a7a8e434255f"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/accde046-d9ac-4369-bc51-eb5823d327c5.webp",
+        "proposal": [
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": true
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Angela Merkel",
+                "isAnswer": false
+            }
+        ],
+        "asset": "accde046-d9ac-4369-bc51-eb5823d327c5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/1eed7d0b-5bf5-4d8d-8818-1370d390b4a8.webp",
+        "proposal": [
+            {
+                "text": "Donald Trump",
+                "isAnswer": true
+            },
+            {
+                "text": "Kim Jong-un",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "Franklin Roosevelt",
+                "isAnswer": false
+            },
+            {
+                "text": "Jacques Chirac",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1eed7d0b-5bf5-4d8d-8818-1370d390b4a8"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/9ca8f9b3-71c1-4bbb-bceb-d131888f5a4e.webp",
+        "proposal": [
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": true
+            },
+            {
+                "text": "Donald Trump",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "9ca8f9b3-71c1-4bbb-bceb-d131888f5a4e"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/8fade0b1-46ca-4c0a-8153-f8075a6ab3cb.webp",
+        "proposal": [
+            {
+                "text": "Frank-Walter Steinmeier",
+                "isAnswer": true
+            },
+            {
+                "text": "Valéry Giscard d'Estaing",
+                "isAnswer": false
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            },
+            {
+                "text": "Vladimir Poutine",
+                "isAnswer": false
+            },
+            {
+                "text": "Donald Trump",
+                "isAnswer": false
+            },
+            {
+                "text": "Nelson Mandela",
+                "isAnswer": false
+            }
+        ],
+        "asset": "8fade0b1-46ca-4c0a-8153-f8075a6ab3cb"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/99d6f1b3-1fe6-4e20-8f8a-f30be3ea506a.webp",
+        "proposal": [
+            {
+                "text": "Franklin Roosevelt",
+                "isAnswer": true
+            },
+            {
+                "text": "Joe Biden",
+                "isAnswer": false
+            },
+            {
+                "text": "Naruhito",
+                "isAnswer": false
+            },
+            {
+                "text": "Kim Jong-un",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "99d6f1b3-1fe6-4e20-8f8a-f30be3ea506a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/ae48784f-16c5-4033-b9b6-749c98745584.webp",
+        "proposal": [
+            {
+                "text": "François Hollande",
+                "isAnswer": true
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "Jacques Chirac",
+                "isAnswer": false
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "Abrakam Lincoln",
+                "isAnswer": false
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "ae48784f-16c5-4033-b9b6-749c98745584"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/5fd5555d-7a34-4817-b124-b43106fcf899.webp",
+        "proposal": [
+            {
+                "text": "François Mitterrand",
+                "isAnswer": true
+            },
+            {
+                "text": "Angela Merkel",
+                "isAnswer": false
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "Franklin Roosevelt",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            }
+        ],
+        "asset": "5fd5555d-7a34-4817-b124-b43106fcf899"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/20cc3ebb-175b-435b-90b8-1ed6481d1dc5.webp",
+        "proposal": [
+            {
+                "text": "George Washington",
+                "isAnswer": true
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "Donald Trump",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            },
+            {
+                "text": "Frank-Walter Steinmeier",
+                "isAnswer": false
+            }
+        ],
+        "asset": "20cc3ebb-175b-435b-90b8-1ed6481d1dc5"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/1dd0d680-b3db-4919-885f-3735a0c128e2.webp",
+        "proposal": [
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": true
+            },
+            {
+                "text": "Jacques Chirac",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "Kim Jong-un",
+                "isAnswer": false
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1dd0d680-b3db-4919-885f-3735a0c128e2"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/3fc9e6e3-76cb-499f-be4b-28c2779e87ce.webp",
+        "proposal": [
+            {
+                "text": "Jacques Chirac",
+                "isAnswer": true
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "Nelson Mandela",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            }
+        ],
+        "asset": "3fc9e6e3-76cb-499f-be4b-28c2779e87ce"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/fdb99a55-183b-4319-822a-beb16f3aaa00.webp",
+        "proposal": [
+            {
+                "text": "Joe Biden",
+                "isAnswer": true
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            }
+        ],
+        "asset": "fdb99a55-183b-4319-822a-beb16f3aaa00"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/4400964c-c55a-4c5a-9134-af5577ab5100.webp",
+        "proposal": [
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": true
+            },
+            {
+                "text": "Emmanuel Macron",
+                "isAnswer": false
+            },
+            {
+                "text": "Naruhito",
+                "isAnswer": false
+            },
+            {
+                "text": "Joe Biden",
+                "isAnswer": false
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            }
+        ],
+        "asset": "4400964c-c55a-4c5a-9134-af5577ab5100"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/b5ad754c-2965-44ef-ada4-0a9703f0fbf0.webp",
+        "proposal": [
+            {
+                "text": "Kim Jong-un",
+                "isAnswer": true
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Donald Trump",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "Abrakam Lincoln",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b5ad754c-2965-44ef-ada4-0a9703f0fbf0"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/a3284268-5627-4806-989c-bc80f6bad73a.webp",
+        "proposal": [
+            {
+                "text": "Naruhito",
+                "isAnswer": true
+            },
+            {
+                "text": "Franklin Roosevelt",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            },
+            {
+                "text": "Nelson Mandela",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "Frank-Walter Steinmeier",
+                "isAnswer": false
+            }
+        ],
+        "asset": "a3284268-5627-4806-989c-bc80f6bad73a"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/b757e3ed-2d3c-49e3-9c80-497a09985964.webp",
+        "proposal": [
+            {
+                "text": "Nelson Mandela",
+                "isAnswer": true
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            },
+            {
+                "text": "Boris Johnson",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "François Hollande",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            }
+        ],
+        "asset": "b757e3ed-2d3c-49e3-9c80-497a09985964"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/662a479c-4751-4c86-91ea-973033b4a21d.webp",
+        "proposal": [
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": true
+            },
+            {
+                "text": "George Washington",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            },
+            {
+                "text": "Frank-Walter Steinmeier",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            },
+            {
+                "text": "Naruhito",
+                "isAnswer": false
+            }
+        ],
+        "asset": "662a479c-4751-4c86-91ea-973033b4a21d"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/1fccf17e-f469-463d-b6e7-16c4754b1946.webp",
+        "proposal": [
+            {
+                "text": "Valéry Giscard d'Estaing",
+                "isAnswer": true
+            },
+            {
+                "text": "Nicolas Sarkozy",
+                "isAnswer": false
+            },
+            {
+                "text": "Abrakam Lincoln",
+                "isAnswer": false
+            },
+            {
+                "text": "Frank-Walter Steinmeier",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            },
+            {
+                "text": "François Mitterrand",
+                "isAnswer": false
+            }
+        ],
+        "asset": "1fccf17e-f469-463d-b6e7-16c4754b1946"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/58500793-9d35-4dce-9530-7dfb316f9198.webp",
+        "proposal": [
+            {
+                "text": "Vladimir Poutine",
+                "isAnswer": true
+            },
+            {
+                "text": "Valéry Giscard d'Estaing",
+                "isAnswer": false
+            },
+            {
+                "text": "Franklin Roosevelt",
+                "isAnswer": false
+            },
+            {
+                "text": "Joe Biden",
+                "isAnswer": false
+            },
+            {
+                "text": "Xi Jinping",
+                "isAnswer": false
+            },
+            {
+                "text": "Georges Pompidou",
+                "isAnswer": false
+            }
+        ],
+        "asset": "58500793-9d35-4dce-9530-7dfb316f9198"
+    },
+    {
+        "sentence": "Qui est-ce  ?",
+        "type": "picture",
+        "picture_url": "https://raw.githubusercontent.com/NiixoZ/MasterQuizz/master/pictures/celebrity/politic/cc08f8d4-f49b-416d-8e0b-dc7e70e0d036.webp",
+        "proposal": [
+            {
+                "text": "Xi Jinping",
+                "isAnswer": true
+            },
+            {
+                "text": "Charles de Gaulle",
+                "isAnswer": false
+            },
+            {
+                "text": "Valéry Giscard d'Estaing",
+                "isAnswer": false
+            },
+            {
+                "text": "Vladimir Poutine",
+                "isAnswer": false
+            },
+            {
+                "text": "John F. Kennedy",
+                "isAnswer": false
+            },
+            {
+                "text": "Barack Obama",
+                "isAnswer": false
+            }
+        ],
+        "asset": "cc08f8d4-f49b-416d-8e0b-dc7e70e0d036"
+    }
+]
